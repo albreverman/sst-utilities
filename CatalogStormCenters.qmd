@@ -1,0 +1,76 @@
+---
+title: "SSTCatalogStormCenters"
+author: "Avital Breverman"
+format: html
+editor: visual
+---
+
+# Attach Packages
+
+```{r}
+library(tidyverse)
+```
+
+# Function
+
+This function returns a data frame of grid name, storm center X coordinate, and storm center Y coordinate for all grids in the specified HEC-HMS \*.grid file. This can be brought into a GIS to visualize the spatial distribution of SST catalog storm centers.
+
+```{r}
+get_catalog_storm_centers <- function(file) {
+  txt <- readLines(file, warn = FALSE)
+
+  # Indices where a block starts/ends
+  i_start <- grep("^\\s*Grid:", txt)
+  i_end   <- grep("^\\s*End:",  txt)
+
+  if (length(i_start) == 0) stop("No 'Grid:' lines found.")
+  if (length(i_end) == 0)   stop("No 'End:' lines found.")
+
+  # Pair each start with the next end after it
+  end_for_start <- vapply(i_start, function(s) i_end[i_end > s][1], integer(1))
+  if (any(is.na(end_for_start))) {
+    stop("At least one 'Grid:' block has no following 'End:'.")
+  }
+
+  # Slice text into blocks: one per storm entry
+  blocks <- Map(function(s, e) txt[s:e], i_start, end_for_start)
+
+  # Extract the value after "key: "
+  get_val <- function(lines, key) {
+    pattern <- paste0("^\\s*", stringr::fixed(key), "\\s*:\\s*(.*)\\s*$")
+    hit <- stringr::str_match(lines, pattern)
+    v <- hit[!is.na(hit[, 2]), 2]
+    if (length(v) == 0) NA_character_ else v[1]
+  }
+
+  out <- lapply(blocks, function(lines) {
+    grid_line <- lines[grep("^\\s*Grid:", lines)][1]
+
+    tibble::tibble(
+      grid = stringr::str_trim(stringr::str_replace(grid_line, "^\\s*Grid:\\s*", "")),
+      x    = as.numeric(get_val(lines, "Storm Center X")),
+      y    = as.numeric(get_val(lines, "Storm Center Y"))
+    )
+  })
+
+  dplyr::bind_rows(out)
+}
+```
+
+# Function Call
+
+```{r}
+# Make a copy of the *.grid file outside of the HMS project dir so you don't accidentally bork it
+
+file <- "C:\\Projects\\SST\\sst-utilities\\Kanawha_Precip_SST.grid" 
+df_storm_centers <- get_catalog_storm_centers(file)
+```
+
+# Write dataframe to CSV
+
+```{r}
+output_dir <- "C:\\Projects\\" # Enter output file dir here
+output_file <- "storm_centers.csv"
+
+write.csv(df_storm_centers, paste0(output_dir, output_file), row.names = FALSE)
+```

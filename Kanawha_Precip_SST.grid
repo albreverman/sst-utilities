@@ -1,0 +1,5298 @@
+Grid Manager: Kanawha_Precip_SST
+     Grid Manager: Kanawha_Precip_SST
+     Version: 4.14
+     Filepath Separator: \
+End: 
+
+Grid: AORC 2015-03-03 Y008 T201
+     Grid: AORC 2015-03-03 Y008 T201
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:27
+     Storm Center X: 1105799.45505301
+     Storm Center Y: 1680500.4069202163
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20150303_Y008_T201.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/03MAR2015:0000/03MAR2015:0100/AORC/
+End: 
+
+Grid: AORC 2016-10-20 Y005 T243
+     Grid: AORC 2016-10-20 Y005 T243
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1238488.1761962147
+     Storm Center Y: 1929905.9603963657
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20161020_Y005_T243.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/20OCT2016:0000/20OCT2016:0100/AORC/
+End: 
+
+Grid: AORC 1988-05-04 Y006 T403
+     Grid: AORC 1988-05-04 Y006 T403
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1513718.8407494952
+     Storm Center Y: 1848130.9150899516
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19880504_Y006_T403.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/04MAY1988:0000/04MAY1988:0100/AORC/
+End: 
+
+Grid: AORC 2019-10-06 Y009 T287
+     Grid: AORC 2019-10-06 Y009 T287
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1118208.755390541
+     Storm Center Y: 1825460.7196778848
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20191006_Y009_T287.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/06OCT2019:0000/06OCT2019:0100/AORC/
+End: 
+
+Grid: AORC 1982-02-01 Y003 T178
+     Grid: AORC 1982-02-01 Y003 T178
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1232954.4475432604
+     Storm Center Y: 1434395.2744302312
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19820201_Y003_T178.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/01FEB1982:0000/01FEB1982:0100/AORC/
+End: 
+
+Grid: AORC 1985-11-02 Y001 T001
+     Grid: AORC 1985-11-02 Y001 T001
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1461213.2897304858
+     Storm Center Y: 1781531.4355354318
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19851102_Y001_T001.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/02NOV1985:0000/02NOV1985:0100/AORC/
+End: 
+
+Grid: AORC 2006-09-11 Y010 T380
+     Grid: AORC 2006-09-11 Y010 T380
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1227230.488514143
+     Storm Center Y: 1833695.9847497153
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20060911_Y010_T380.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/11SEP2006:0000/11SEP2006:0100/AORC/
+End: 
+
+Grid: AORC 2004-12-09 Y010 T327
+     Grid: AORC 2004-12-09 Y010 T327
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1101503.7190460272
+     Storm Center Y: 1487837.7412492281
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20041209_Y010_T327.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/09DEC2004:0000/09DEC2004:0100/AORC/
+End: 
+
+Grid: AORC 2020-02-04 Y002 T005
+     Grid: AORC 2020-02-04 Y002 T005
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1010988.5848643155
+     Storm Center Y: 1465243.6662478538
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20200204_Y002_T005.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/04FEB2020:0000/04FEB2020:0100/AORC/
+End: 
+
+Grid: AORC 2004-04-12 Y006 T170
+     Grid: AORC 2004-04-12 Y006 T170
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1356565.0261441672
+     Storm Center Y: 1808904.8643552111
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20040412_Y006_T170.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/12APR2004:0000/12APR2004:0100/AORC/
+End: 
+
+Grid: AORC 2018-08-01 Y005 T096
+     Grid: AORC 2018-08-01 Y005 T096
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1408915.8501665785
+     Storm Center Y: 1567738.9467881927
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20180801_Y005_T096.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/01AUG2018:0000/01AUG2018:0100/AORC/
+End: 
+
+Grid: AORC 2007-03-14 Y005 T337
+     Grid: AORC 2007-03-14 Y005 T337
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:27
+     Storm Center X: 1286621.4713155308
+     Storm Center Y: 1714327.62504962
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20070314_Y005_T337.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/14MAR2007:0000/14MAR2007:0100/AORC/
+End: 
+
+Grid: AORC 1981-06-04 Y002 T274
+     Grid: AORC 1981-06-04 Y002 T274
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1071534.4022851342
+     Storm Center Y: 1649612.7881042508
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19810604_Y002_T274.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/04JUN1981:0000/04JUN1981:0100/AORC/
+End: 
+
+Grid: AORC 1981-01-31 Y009 T428
+     Grid: AORC 1981-01-31 Y009 T428
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1098468.5424393422
+     Storm Center Y: 1800140.5782817262
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19810131_Y009_T428.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/01FEB1981:0000/01FEB1981:0100/AORC/
+End: 
+
+Grid: AORC 2008-07-21 Y010 T434
+     Grid: AORC 2008-07-21 Y010 T434
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1365209.7331743143
+     Storm Center Y: 1946766.9253592875
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20080721_Y010_T434.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/21JUL2008:0000/21JUL2008:0100/AORC/
+End: 
+
+Grid: AORC 2008-11-13 Y006 T392
+     Grid: AORC 2008-11-13 Y006 T392
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1074784.814011771
+     Storm Center Y: 1578484.160761026
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20081113_Y006_T392.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/13NOV2008:0000/13NOV2008:0100/AORC/
+End: 
+
+Grid: AORC 2018-05-28 Y009 T152
+     Grid: AORC 2018-05-28 Y009 T152
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1228413.1019112181
+     Storm Center Y: 1486514.8503014853
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20180528_Y009_T152.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/28MAY2018:0000/28MAY2018:0100/AORC/
+End: 
+
+Grid: AORC 2011-03-04 Y005 T229
+     Grid: AORC 2011-03-04 Y005 T229
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1176830.4196594332
+     Storm Center Y: 1422672.7328093667
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20110304_Y005_T229.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/04MAR2011:0000/04MAR2011:0100/AORC/
+End: 
+
+Grid: AORC 1994-07-26 Y009 T329
+     Grid: AORC 1994-07-26 Y009 T329
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1075956.5885313298
+     Storm Center Y: 1428124.810219909
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19940726_Y009_T329.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/26JUL1994:0000/26JUL1994:0100/AORC/
+End: 
+
+Grid: AORC 2019-07-21 Y010 T288
+     Grid: AORC 2019-07-21 Y010 T288
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1085745.9864982285
+     Storm Center Y: 1493322.2262377345
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20190721_Y010_T288.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/21JUL2019:0000/21JUL2019:0100/AORC/
+End: 
+
+Grid: AORC 1998-06-27 Y002 T042
+     Grid: AORC 1998-06-27 Y002 T042
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1217677.9815648776
+     Storm Center Y: 1972052.4913135092
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19980627_Y002_T042.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/27JUN1998:0000/27JUN1998:0100/AORC/
+End: 
+
+Grid: AORC 2016-09-29 Y003 T107
+     Grid: AORC 2016-09-29 Y003 T107
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:27
+     Storm Center X: 1403711.4312699588
+     Storm Center Y: 1790382.6307007992
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20160929_Y003_T107.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/01OCT2016:0000/01OCT2016:0100/AORC/
+End: 
+
+Grid: AORC 2014-05-14 Y003 T166
+     Grid: AORC 2014-05-14 Y003 T166
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1415402.2001260973
+     Storm Center Y: 1891021.2636887676
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20140514_Y003_T166.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/14MAY2014:0000/14MAY2014:0100/AORC/
+End: 
+
+Grid: AORC 1984-05-02 Y003 T184
+     Grid: AORC 1984-05-02 Y003 T184
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1079877.5275252545
+     Storm Center Y: 1421101.433806967
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19840502_Y003_T184.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/02MAY1984:0000/02MAY1984:0100/AORC/
+End: 
+
+Grid: AORC 2011-05-17 Y004 T225
+     Grid: AORC 2011-05-17 Y004 T225
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1494426.6648515707
+     Storm Center Y: 1825544.8460844369
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20110517_Y004_T225.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/17MAY2011:0000/17MAY2011:0100/AORC/
+End: 
+
+Grid: AORC 1981-05-26 Y004 T307
+     Grid: AORC 1981-05-26 Y004 T307
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1296858.7012262144
+     Storm Center Y: 1572293.3188227764
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19810526_Y004_T307.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/26MAY1981:0000/26MAY1981:0100/AORC/
+End: 
+
+Grid: AORC 1995-10-03 Y001 T018
+     Grid: AORC 1995-10-03 Y001 T018
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:27
+     Storm Center X: 1130057.0548906287
+     Storm Center Y: 1408807.801835955
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19951003_Y001_T018.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/03OCT1995:0000/03OCT1995:0100/AORC/
+End: 
+
+Grid: AORC 2003-09-18 Y003 T075
+     Grid: AORC 2003-09-18 Y003 T075
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1488594.0864867552
+     Storm Center Y: 1809277.7852743869
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20030918_Y003_T075.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/18SEP2003:0000/18SEP2003:0100/AORC/
+End: 
+
+Grid: AORC 1995-06-27 Y010 T355
+     Grid: AORC 1995-06-27 Y010 T355
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1439740.356753708
+     Storm Center Y: 1735983.6630553748
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19950627_Y010_T355.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/27JUN1995:0000/27JUN1995:0100/AORC/
+End: 
+
+Grid: AORC 1990-12-17 Y009 T303
+     Grid: AORC 1990-12-17 Y009 T303
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1045484.7816779676
+     Storm Center Y: 1668873.4705601314
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19901217_Y009_T303.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/17DEC1990:0000/17DEC1990:0100/AORC/
+End: 
+
+Grid: AORC 1982-07-29 Y004 T179
+     Grid: AORC 1982-07-29 Y004 T179
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1189031.1408676351
+     Storm Center Y: 1529877.6709360098
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19820729_Y004_T179.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/29JUL1982:0000/29JUL1982:0100/AORC/
+End: 
+
+Grid: AORC 1987-04-23 Y004 T055
+     Grid: AORC 1987-04-23 Y004 T055
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1376156.1194765538
+     Storm Center Y: 1637970.7048144806
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19870423_Y004_T055.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/23APR1987:0000/23APR1987:0100/AORC/
+End: 
+
+Grid: AORC 1999-05-05 Y001 T094
+     Grid: AORC 1999-05-05 Y001 T094
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:27
+     Storm Center X: 1085845.347757706
+     Storm Center Y: 1421861.0407415791
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19990505_Y001_T094.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/05MAY1999:0000/05MAY1999:0100/AORC/
+End: 
+
+Grid: AORC 2020-04-12 Y004 T080
+     Grid: AORC 2020-04-12 Y004 T080
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1027928.7768602245
+     Storm Center Y: 1399640.685259872
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20200412_Y004_T080.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/12APR2020:0000/12APR2020:0100/AORC/
+End: 
+
+Grid: AORC 2007-10-24 Y001 T017
+     Grid: AORC 2007-10-24 Y001 T017
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1348265.0182720886
+     Storm Center Y: 1625822.8677850396
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20071024_Y001_T017.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/24OCT2007:0000/24OCT2007:0100/AORC/
+End: 
+
+Grid: AORC 1985-10-02 Y009 T371
+     Grid: AORC 1985-10-02 Y009 T371
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1379064.0131221376
+     Storm Center Y: 1638453.8885769607
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19851002_Y009_T371.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/02OCT1985:0000/02OCT1985:0100/AORC/
+End: 
+
+Grid: AORC 1987-04-15 Y002 T041
+     Grid: AORC 1987-04-15 Y002 T041
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1477688.561303408
+     Storm Center Y: 1788300.33453527
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19870415_Y002_T041.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/15APR1987:0000/15APR1987:0100/AORC/
+End: 
+
+Grid: AORC 2014-08-09 Y010 T375
+     Grid: AORC 2014-08-09 Y010 T375
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1330011.8622613042
+     Storm Center Y: 1683402.2386096346
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20140809_Y010_T375.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/09AUG2014:0000/09AUG2014:0100/AORC/
+End: 
+
+Grid: AORC 2018-09-15 Y001 T029
+     Grid: AORC 2018-09-15 Y001 T029
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1441197.9695327047
+     Storm Center Y: 1520224.9157644794
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20180915_Y001_T029.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/15SEP2018:0000/15SEP2018:0100/AORC/
+End: 
+
+Grid: AORC 2013-01-30 Y006 T104
+     Grid: AORC 2013-01-30 Y006 T104
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1127068.630360683
+     Storm Center Y: 1408411.9690427464
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20130130_Y006_T104.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/01FEB2013:0000/01FEB2013:0100/AORC/
+End: 
+
+Grid: AORC 2019-05-11 Y007 T238
+     Grid: AORC 2019-05-11 Y007 T238
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1089302.6417704425
+     Storm Center Y: 1418542.4437518658
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20190511_Y007_T238.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/11MAY2019:0000/11MAY2019:0100/AORC/
+End: 
+
+Grid: AORC 1983-04-22 Y008 T359
+     Grid: AORC 1983-04-22 Y008 T359
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1441698.4450342378
+     Storm Center Y: 1808408.8791767855
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19830422_Y008_T359.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/22APR1983:0000/22APR1983:0100/AORC/
+End: 
+
+Grid: AORC 2019-04-19 Y003 T100
+     Grid: AORC 2019-04-19 Y003 T100
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1198607.490317495
+     Storm Center Y: 1440782.1271496557
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20190419_Y003_T100.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/19APR2019:0000/19APR2019:0100/AORC/
+End: 
+
+Grid: AORC 1987-12-25 Y005 T099
+     Grid: AORC 1987-12-25 Y005 T099
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1146805.166858387
+     Storm Center Y: 1618227.1945991185
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19871225_Y005_T099.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/25DEC1987:0000/25DEC1987:0100/AORC/
+End: 
+
+Grid: AORC 2021-05-03 Y008 T252
+     Grid: AORC 2021-05-03 Y008 T252
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1082225.8302295662
+     Storm Center Y: 1402600.286437326
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20210503_Y008_T252.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/03MAY2021:0000/03MAY2021:0100/AORC/
+End: 
+
+Grid: AORC 1982-07-03 Y009 T387
+     Grid: AORC 1982-07-03 Y009 T387
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1393840.6465377104
+     Storm Center Y: 1947924.5518281765
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19820703_Y009_T387.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/03JUL1982:0000/03JUL1982:0100/AORC/
+End: 
+
+Grid: AORC 2005-11-27 Y003 T336
+     Grid: AORC 2005-11-27 Y003 T336
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1460330.173417859
+     Storm Center Y: 1769987.2286195508
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20051127_Y003_T336.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/27NOV2005:0000/27NOV2005:0100/AORC/
+End: 
+
+Grid: AORC 2001-07-26 Y003 T098
+     Grid: AORC 2001-07-26 Y003 T098
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1328835.1450565085
+     Storm Center Y: 1781607.6661244247
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20010726_Y003_T098.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/26JUL2001:0000/26JUL2001:0100/AORC/
+End: 
+
+Grid: AORC 1988-12-30 Y009 T425
+     Grid: AORC 1988-12-30 Y009 T425
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1085845.347757706
+     Storm Center Y: 1421861.0407415791
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19881230_Y009_T425.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/01JAN1989:0000/01JAN1989:0100/AORC/
+End: 
+
+Grid: AORC 2005-07-05 Y002 T204
+     Grid: AORC 2005-07-05 Y002 T204
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1232954.4475432604
+     Storm Center Y: 1434395.2744302312
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20050705_Y002_T204.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/05JUL2005:0000/05JUL2005:0100/AORC/
+End: 
+
+Grid: AORC 1980-07-08 Y001 T082
+     Grid: AORC 1980-07-08 Y001 T082
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1254410.9887421206
+     Storm Center Y: 1732021.629010713
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19800708_Y001_T082.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/08JUL1980:0000/08JUL1980:0100/AORC/
+End: 
+
+Grid: AORC 2008-06-03 Y003 T240
+     Grid: AORC 2008-06-03 Y003 T240
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1059717.260164357
+     Storm Center Y: 1874122.445049153
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20080603_Y003_T240.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/03JUN2008:0000/03JUN2008:0100/AORC/
+End: 
+
+Grid: AORC 1993-02-20 Y009 T429
+     Grid: AORC 1993-02-20 Y009 T429
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1175947.0851834933
+     Storm Center Y: 1622300.6161679442
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19930220_Y009_T429.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/20FEB1993:0000/20FEB1993:0100/AORC/
+End: 
+
+Grid: AORC 2018-05-16 Y007 T132
+     Grid: AORC 2018-05-16 Y007 T132
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1270338.4073152987
+     Storm Center Y: 1549341.0931377409
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20180516_Y007_T132.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/16MAY2018:0000/16MAY2018:0100/AORC/
+End: 
+
+Grid: AORC 1988-07-18 Y001 T163
+     Grid: AORC 1988-07-18 Y001 T163
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1234583.6038368721
+     Storm Center Y: 1917963.3994553168
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19880718_Y001_T163.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/18JUL1988:0000/18JUL1988:0100/AORC/
+End: 
+
+Grid: AORC 2001-02-15 Y004 T242
+     Grid: AORC 2001-02-15 Y004 T242
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1037694.4056914933
+     Storm Center Y: 1517362.976576802
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20010215_Y004_T242.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/15FEB2001:0000/15FEB2001:0100/AORC/
+End: 
+
+Grid: AORC 1990-10-21 Y005 T147
+     Grid: AORC 1990-10-21 Y005 T147
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1430168.6378590453
+     Storm Center Y: 1722931.7510909643
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19901021_Y005_T147.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/21OCT1990:0000/21OCT1990:0100/AORC/
+End: 
+
+Grid: AORC 2010-07-19 Y010 T350
+     Grid: AORC 2010-07-19 Y010 T350
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1196281.0910389551
+     Storm Center Y: 1787524.26419334
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20100719_Y010_T350.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/19JUL2010:0000/19JUL2010:0100/AORC/
+End: 
+
+Grid: AORC 2014-10-12 Y001 T072
+     Grid: AORC 2014-10-12 Y001 T072
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1130547.4251926315
+     Storm Center Y: 1405110.6271561375
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20141012_Y001_T072.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/12OCT2014:0000/12OCT2014:0100/AORC/
+End: 
+
+Grid: AORC 2008-08-25 Y002 T026
+     Grid: AORC 2008-08-25 Y002 T026
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1226263.7876084782
+     Storm Center Y: 1501286.280740493
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20080825_Y002_T026.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/25AUG2008:0000/25AUG2008:0100/AORC/
+End: 
+
+Grid: AORC 1986-11-07 Y001 T189
+     Grid: AORC 1986-11-07 Y001 T189
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1045484.7816779676
+     Storm Center Y: 1668873.4705601314
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19861107_Y001_T189.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/07NOV1986:0000/07NOV1986:0100/AORC/
+End: 
+
+Grid: AORC 2009-11-10 Y003 T076
+     Grid: AORC 2009-11-10 Y003 T076
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1430168.6378590453
+     Storm Center Y: 1722931.7510909643
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20091110_Y003_T076.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/10NOV2009:0000/10NOV2009:0100/AORC/
+End: 
+
+Grid: AORC 1982-04-25 Y008 T386
+     Grid: AORC 1982-04-25 Y008 T386
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1235933.7521607385
+     Storm Center Y: 1434828.244077688
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19820425_Y008_T386.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/25APR1982:0000/25APR1982:0100/AORC/
+End: 
+
+Grid: AORC 1994-06-26 Y006 T286
+     Grid: AORC 1994-06-26 Y006 T286
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1201223.2497726504
+     Storm Center Y: 1313150.5979499873
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19940626_Y006_T286.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/26JUN1994:0000/26JUN1994:0100/AORC/
+End: 
+
+Grid: AORC 2014-04-28 Y004 T175
+     Grid: AORC 2014-04-28 Y004 T175
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1084705.1924160277
+     Storm Center Y: 1794523.3967070472
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20140428_Y004_T175.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/28APR2014:0000/28APR2014:0100/AORC/
+End: 
+
+Grid: AORC 1996-07-18 Y003 T117
+     Grid: AORC 1996-07-18 Y003 T117
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1363950.2579548678
+     Storm Center Y: 1954130.8820960978
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19960718_Y003_T117.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/18JUL1996:0000/18JUL1996:0100/AORC/
+End: 
+
+Grid: AORC 2000-07-11 Y009 T385
+     Grid: AORC 2000-07-11 Y009 T385
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1210944.8543151314
+     Storm Center Y: 1687728.5305249803
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20000711_Y009_T385.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/11JUL2000:0000/11JUL2000:0100/AORC/
+End: 
+
+Grid: AORC 1999-06-25 Y007 T234
+     Grid: AORC 1999-06-25 Y007 T234
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1079877.5275252545
+     Storm Center Y: 1421101.433806967
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19990625_Y007_T234.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/25JUN1999:0000/25JUN1999:0100/AORC/
+End: 
+
+Grid: AORC 1989-01-11 Y009 T323
+     Grid: AORC 1989-01-11 Y009 T323
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1025892.2668073877
+     Storm Center Y: 1515915.4091550165
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19890111_Y009_T323.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/11JAN1989:0000/11JAN1989:0100/AORC/
+End: 
+
+Grid: AORC 2016-10-07 Y006 T249
+     Grid: AORC 2016-10-07 Y006 T249
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1444613.0615908639
+     Storm Center Y: 1657206.0412256646
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20161007_Y006_T249.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/07OCT2016:0000/07OCT2016:0100/AORC/
+End: 
+
+Grid: AORC 2005-07-11 Y005 T381
+     Grid: AORC 2005-07-11 Y005 T381
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1046473.6961673057
+     Storm Center Y: 1296741.6492412281
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20050711_Y005_T381.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/11JUL2005:0000/11JUL2005:0100/AORC/
+End: 
+
+Grid: AORC 1995-11-05 Y007 T244
+     Grid: AORC 1995-11-05 Y007 T244
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1085845.347757706
+     Storm Center Y: 1421861.0407415791
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19951105_Y007_T244.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/05NOV1995:0000/05NOV1995:0100/AORC/
+End: 
+
+Grid: AORC 1996-01-25 Y005 T162
+     Grid: AORC 1996-01-25 Y005 T162
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1127068.630360683
+     Storm Center Y: 1408411.9690427464
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19960125_Y005_T162.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/25JAN1996:0000/25JAN1996:0100/AORC/
+End: 
+
+Grid: AORC 2009-07-29 Y006 T219
+     Grid: AORC 2009-07-29 Y006 T219
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1215245.9873608307
+     Storm Center Y: 1816776.8934184369
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20090729_Y006_T219.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/29JUL2009:0000/29JUL2009:0100/AORC/
+End: 
+
+Grid: AORC 2012-01-21 Y009 T374
+     Grid: AORC 2012-01-21 Y009 T374
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1025892.2668073877
+     Storm Center Y: 1515915.4091550165
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20120121_Y009_T374.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/21JAN2012:0000/21JAN2012:0100/AORC/
+End: 
+
+Grid: AORC 2007-07-24 Y007 T393
+     Grid: AORC 2007-07-24 Y007 T393
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1235171.0826081466
+     Storm Center Y: 1683770.4366591778
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20070724_Y007_T393.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/24JUL2007:0000/24JUL2007:0100/AORC/
+End: 
+
+Grid: AORC 1982-01-21 Y005 T357
+     Grid: AORC 1982-01-21 Y005 T357
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1033605.422731613
+     Storm Center Y: 1377787.2497911118
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19820121_Y005_T357.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/21JAN1982:0000/21JAN1982:0100/AORC/
+End: 
+
+Grid: AORC 2006-04-20 Y009 T354
+     Grid: AORC 2006-04-20 Y009 T354
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1043135.0536360801
+     Storm Center Y: 1521797.5715402337
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20060420_Y009_T354.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/20APR2006:0000/20APR2006:0100/AORC/
+End: 
+
+Grid: AORC 2020-10-28 Y005 T123
+     Grid: AORC 2020-10-28 Y005 T123
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1195766.5719904427
+     Storm Center Y: 1417781.214438204
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20201028_Y005_T123.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/28OCT2020:0000/28OCT2020:0100/AORC/
+End: 
+
+Grid: AORC 2002-03-19 Y010 T292
+     Grid: AORC 2002-03-19 Y010 T292
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1115432.4830095123
+     Storm Center Y: 1760970.9176742411
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20020319_Y010_T292.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/19MAR2002:0000/19MAR2002:0100/AORC/
+End: 
+
+Grid: AORC 2009-01-05 Y001 T034
+     Grid: AORC 2009-01-05 Y001 T034
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1079877.5275252545
+     Storm Center Y: 1421101.433806967
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20090105_Y001_T034.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/05JAN2009:0000/05JAN2009:0100/AORC/
+End: 
+
+Grid: AORC 1995-06-22 Y005 T174
+     Grid: AORC 1995-06-22 Y005 T174
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1439740.356753708
+     Storm Center Y: 1735983.6630553748
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19950622_Y005_T174.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/22JUN1995:0000/22JUN1995:0100/AORC/
+End: 
+
+Grid: AORC 2021-08-18 Y009 T306
+     Grid: AORC 2021-08-18 Y009 T306
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1165226.281273634
+     Storm Center Y: 1881158.2840723838
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20210818_Y009_T306.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/18AUG2021:0000/18AUG2021:0100/AORC/
+End: 
+
+Grid: AORC 2009-12-07 Y005 T177
+     Grid: AORC 2009-12-07 Y005 T177
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1108263.1654320084
+     Storm Center Y: 1436038.408282466
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20091207_Y005_T177.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/07DEC2009:0000/07DEC2009:0100/AORC/
+End: 
+
+Grid: AORC 2015-04-19 Y009 T226
+     Grid: AORC 2015-04-19 Y009 T226
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1338394.7742430908
+     Storm Center Y: 1612879.3023054276
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20150419_Y009_T226.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/19APR2015:0000/19APR2015:0100/AORC/
+End: 
+
+Grid: AORC 1999-10-09 Y009 T340
+     Grid: AORC 1999-10-09 Y009 T340
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1084853.9773749078
+     Storm Center Y: 1357829.1938514595
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19991009_Y009_T340.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/09OCT1999:0000/09OCT1999:0100/AORC/
+End: 
+
+Grid: AORC 1996-11-07 Y006 T169
+     Grid: AORC 1996-11-07 Y006 T169
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1348265.0182720886
+     Storm Center Y: 1625822.8677850396
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19961107_Y006_T169.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/07NOV1996:0000/07NOV1996:0100/AORC/
+End: 
+
+Grid: AORC 1990-07-12 Y004 T102
+     Grid: AORC 1990-07-12 Y004 T102
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1087538.0430830906
+     Storm Center Y: 1455928.1688511148
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19900712_Y004_T102.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/12JUL1990:0000/12JUL1990:0100/AORC/
+End: 
+
+Grid: AORC 1986-06-30 Y002 T220
+     Grid: AORC 1986-06-30 Y002 T220
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1328835.1450565085
+     Storm Center Y: 1781607.6661244247
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19860630_Y002_T220.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/01JUL1986:0000/01JUL1986:0100/AORC/
+End: 
+
+Grid: AORC 1991-11-20 Y002 T049
+     Grid: AORC 1991-11-20 Y002 T049
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1127068.630360683
+     Storm Center Y: 1408411.9690427464
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19911120_Y002_T049.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/20NOV1991:0000/20NOV1991:0100/AORC/
+End: 
+
+Grid: AORC 1982-08-31 Y002 T105
+     Grid: AORC 1982-08-31 Y002 T105
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1018435.3678414834
+     Storm Center Y: 1552616.9725348633
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19820831_Y002_T105.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/01SEP1982:0000/01SEP1982:0100/AORC/
+End: 
+
+Grid: AORC 2007-07-28 Y009 T439
+     Grid: AORC 2007-07-28 Y009 T439
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1111412.370548512
+     Storm Center Y: 1549380.4559736804
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20070728_Y009_T439.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/28JUL2007:0000/28JUL2007:0100/AORC/
+End: 
+
+Grid: AORC 2001-05-16 Y002 T088
+     Grid: AORC 2001-05-16 Y002 T088
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1131124.2061393072
+     Storm Center Y: 1815936.7264610797
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20010516_Y002_T088.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/16MAY2001:0000/16MAY2001:0100/AORC/
+End: 
+
+Grid: AORC 1979-04-01 Y009 T283
+     Grid: AORC 1979-04-01 Y009 T283
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1084853.9773749078
+     Storm Center Y: 1357829.1938514595
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19790401_Y009_T283.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/01APR1979:0000/01APR1979:0100/AORC/
+End: 
+
+Grid: AORC 2004-11-02 Y009 T250
+     Grid: AORC 2004-11-02 Y009 T250
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1033605.422731613
+     Storm Center Y: 1377787.2497911118
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20041102_Y009_T250.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/02NOV2004:0000/02NOV2004:0100/AORC/
+End: 
+
+Grid: AORC 1998-03-18 Y010 T318
+     Grid: AORC 1998-03-18 Y010 T318
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1029422.2897571005
+     Storm Center Y: 1437395.9932057294
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19980318_Y010_T318.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/18MAR1998:0000/18MAR1998:0100/AORC/
+End: 
+
+Grid: AORC 1983-07-03 Y009 T362
+     Grid: AORC 1983-07-03 Y009 T362
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1051113.1195517175
+     Storm Center Y: 1624405.6511896532
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19830703_Y009_T362.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/03JUL1983:0000/03JUL1983:0100/AORC/
+End: 
+
+Grid: AORC 1999-09-04 Y002 T095
+     Grid: AORC 1999-09-04 Y002 T095
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1465392.388379228
+     Storm Center Y: 1774690.543627261
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19990904_Y002_T095.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/04SEP1999:0000/04SEP1999:0100/AORC/
+End: 
+
+Grid: AORC 2020-10-09 Y007 T135
+     Grid: AORC 2020-10-09 Y007 T135
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1140469.557558295
+     Storm Center Y: 1376335.6588767974
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20201009_Y007_T135.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/09OCT2020:0000/09OCT2020:0100/AORC/
+End: 
+
+Grid: AORC 1995-01-13 Y002 T025
+     Grid: AORC 1995-01-13 Y002 T025
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1269778.8797979357
+     Storm Center Y: 1553031.9321060432
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19950113_Y002_T025.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/13JAN1995:0000/13JAN1995:0100/AORC/
+End: 
+
+Grid: AORC 2022-02-22 Y002 T070
+     Grid: AORC 2022-02-22 Y002 T070
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 989261.225175311
+     Storm Center Y: 1496495.7296888186
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20220222_Y002_T070.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/22FEB2022:0000/22FEB2022:0100/AORC/
+End: 
+
+Grid: AORC 1984-05-06 Y001 T011
+     Grid: AORC 1984-05-06 Y001 T011
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1087538.0430830906
+     Storm Center Y: 1455928.1688511148
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19840506_Y001_T011.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/06MAY1984:0000/06MAY1984:0100/AORC/
+End: 
+
+Grid: AORC 1982-11-29 Y010 T395
+     Grid: AORC 1982-11-29 Y010 T395
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1033605.422731613
+     Storm Center Y: 1377787.2497911118
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19821129_Y010_T395.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/01DEC1982:0000/01DEC1982:0100/AORC/
+End: 
+
+Grid: AORC 1980-03-16 Y009 T369
+     Grid: AORC 1980-03-16 Y009 T369
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1084853.977374
+     Storm Center Y: 1357829.193851
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19800316_Y009_T369.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/16MAR1980:0000/16MAR1980:0100/AORC/
+End: 
+
+Grid: AORC 1991-02-17 Y003 T052
+     Grid: AORC 1991-02-17 Y003 T052
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1025892.2668073877
+     Storm Center Y: 1515915.4091550165
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19910217_Y003_T052.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/17FEB1991:0000/17FEB1991:0100/AORC/
+End: 
+
+Grid: AORC 2001-06-05 Y010 T436
+     Grid: AORC 2001-06-05 Y010 T436
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1508735.2454596215
+     Storm Center Y: 1843398.379215188
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20010605_Y010_T436.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/05JUN2001:0000/05JUN2001:0100/AORC/
+End: 
+
+Grid: AORC 1993-09-02 Y006 T358
+     Grid: AORC 1993-09-02 Y006 T358
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1322328.2216605532
+     Storm Center Y: 1962269.1477350446
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19930902_Y006_T358.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/02SEP1993:0000/02SEP1993:0100/AORC/
+End: 
+
+Grid: AORC 2012-12-24 Y006 T281
+     Grid: AORC 2012-12-24 Y006 T281
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1185664.9195534443
+     Storm Center Y: 1446497.9385224436
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20121224_Y006_T281.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/24DEC2012:0000/24DEC2012:0100/AORC/
+End: 
+
+Grid: AORC 2017-05-04 Y009 T322
+     Grid: AORC 2017-05-04 Y009 T322
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1465392.388379228
+     Storm Center Y: 1774690.543627261
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20170504_Y009_T322.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/04MAY2017:0000/04MAY2017:0100/AORC/
+End: 
+
+Grid: AORC 1999-07-10 Y003 T139
+     Grid: AORC 1999-07-10 Y003 T139
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1093100.2133520592
+     Storm Center Y: 1482982.2614254837
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19990710_Y003_T139.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/10JUL1999:0000/10JUL1999:0100/AORC/
+End: 
+
+Grid: AORC 2003-06-30 Y006 T116
+     Grid: AORC 2003-06-30 Y006 T116
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1232418.6594928168
+     Storm Center Y: 1438086.63055608
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20030630_Y006_T116.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/01JUL2003:0000/01JUL2003:0100/AORC/
+End: 
+
+Grid: AORC 2006-07-03 Y008 T347
+     Grid: AORC 2006-07-03 Y008 T347
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1297371.329805481
+     Storm Center Y: 1939245.0054486243
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20060703_Y008_T347.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/03JUL2006:0000/03JUL2006:0100/AORC/
+End: 
+
+Grid: AORC 1994-04-11 Y005 T271
+     Grid: AORC 1994-04-11 Y005 T271
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1031950.2425426049
+     Storm Center Y: 1441461.2534193355
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19940411_Y005_T271.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/11APR1994:0000/11APR1994:0100/AORC/
+End: 
+
+Grid: AORC 1998-03-07 Y008 T296
+     Grid: AORC 1998-03-07 Y008 T296
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1146984.3984106125
+     Storm Center Y: 1396018.192201248
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19980307_Y008_T296.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/07MAR1998:0000/07MAR1998:0100/AORC/
+End: 
+
+Grid: AORC 2008-04-03 Y009 T432
+     Grid: AORC 2008-04-03 Y009 T432
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1103827.6643663757
+     Storm Center Y: 1782015.115166629
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20080403_Y009_T432.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/03APR2008:0000/03APR2008:0100/AORC/
+End: 
+
+Grid: AORC 1979-11-24 Y008 T222
+     Grid: AORC 1979-11-24 Y008 T222
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1170863.1464278565
+     Storm Center Y: 1421849.3013659923
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19791124_Y008_T222.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/24NOV1979:0000/24NOV1979:0100/AORC/
+End: 
+
+Grid: AORC 2014-04-07 Y009 T345
+     Grid: AORC 2014-04-07 Y009 T345
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1115742.491989894
+     Storm Center Y: 1331724.3722763052
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20140407_Y009_T345.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/07APR2014:0000/07APR2014:0100/AORC/
+End: 
+
+Grid: AORC 2009-01-26 Y009 T282
+     Grid: AORC 2009-01-26 Y009 T282
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 1039014.4394079352
+     Storm Center Y: 1765963.351993359
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20090126_Y009_T282.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/26JAN2009:0000/26JAN2009:0100/AORC/
+End: 
+
+Grid: AORC 2000-06-17 Y008 T384
+     Grid: AORC 2000-06-17 Y008 T384
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1089914.6395339281
+     Storm Center Y: 1798989.2459865424
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20000617_Y008_T384.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/17JUN2000:0000/17JUN2000:0100/AORC/
+End: 
+
+Grid: AORC 2013-11-25 Y004 T087
+     Grid: AORC 2013-11-25 Y004 T087
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1187214.1457750974
+     Storm Center Y: 1435414.522957491
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20131125_Y004_T087.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/25NOV2013:0000/25NOV2013:0100/AORC/
+End: 
+
+Grid: AORC 1983-04-05 Y003 T206
+     Grid: AORC 1983-04-05 Y003 T206
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1078938.1021118907
+     Storm Center Y: 1428502.7147336202
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19830405_Y003_T206.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/05APR1983:0000/05APR1983:0100/AORC/
+End: 
+
+Grid: AORC 1984-02-12 Y002 T168
+     Grid: AORC 1984-02-12 Y002 T168
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1226263.7876084782
+     Storm Center Y: 1501286.280740493
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19840212_Y002_T168.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/12FEB1984:0000/12FEB1984:0100/AORC/
+End: 
+
+Grid: AORC 2013-05-05 Y003 T059
+     Grid: AORC 2013-05-05 Y003 T059
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1234048.3496217576
+     Storm Center Y: 1509966.4207138983
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20130505_Y003_T059.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/05MAY2013:0000/05MAY2013:0100/AORC/
+End: 
+
+Grid: AORC 1992-12-16 Y004 T223
+     Grid: AORC 1992-12-16 Y004 T223
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1164938.8908451959
+     Storm Center Y: 1398450.8490646342
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19921216_Y004_T223.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/16DEC1992:0000/16DEC1992:0100/AORC/
+End: 
+
+Grid: AORC 2007-08-19 Y004 T332
+     Grid: AORC 2007-08-19 Y004 T332
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 1398558.4656219026
+     Storm Center Y: 1986675.006977436
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20070819_Y004_T332.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/19AUG2007:0000/19AUG2007:0100/AORC/
+End: 
+
+Grid: AORC 1984-03-27 Y010 T414
+     Grid: AORC 1984-03-27 Y010 T414
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 1500908.0764422028
+     Storm Center Y: 1838141.938324483
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19840327_Y010_T414.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/27MAR1984:0000/27MAR1984:0100/AORC/
+End: 
+
+Grid: AORC 2017-07-27 Y005 T191
+     Grid: AORC 2017-07-27 Y005 T191
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1379054.5547972287
+     Storm Center Y: 1983265.229631086
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20170727_Y005_T191.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/27JUL2017:0000/27JUL2017:0100/AORC/
+End: 
+
+Grid: AORC 2000-01-08 Y007 T360
+     Grid: AORC 2000-01-08 Y007 T360
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1079877.5275252545
+     Storm Center Y: 1421101.433806967
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20000108_Y007_T360.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/08JAN2000:0000/08JAN2000:0100/AORC/
+End: 
+
+Grid: AORC 2007-12-11 Y010 T440
+     Grid: AORC 2007-12-11 Y010 T440
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1329668.0880779957
+     Storm Center Y: 1918048.4490453412
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20071211_Y010_T440.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/11DEC2007:0000/11DEC2007:0100/AORC/
+End: 
+
+Grid: AORC 1995-08-25 Y003 T045
+     Grid: AORC 1995-08-25 Y003 T045
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1228992.7180843633
+     Storm Center Y: 1377307.0924380652
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19950825_Y003_T045.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/25AUG1995:0000/25AUG1995:0100/AORC/
+End: 
+
+Grid: AORC 2020-08-13 Y010 T237
+     Grid: AORC 2020-08-13 Y010 T237
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1320824.2846297056
+     Storm Center Y: 1534477.9397997907
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20200813_Y010_T237.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/13AUG2020:0000/13AUG2020:0100/AORC/
+End: 
+
+Grid: AORC 1993-08-11 Y002 T101
+     Grid: AORC 1993-08-11 Y002 T101
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1020820.2516522716
+     Storm Center Y: 1748607.8159213837
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19930811_Y002_T101.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/11AUG1993:0000/11AUG1993:0100/AORC/
+End: 
+
+Grid: AORC 2014-07-18 Y008 T330
+     Grid: AORC 2014-07-18 Y008 T330
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1155962.284551578
+     Storm Center Y: 1397229.7976056496
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20140718_Y008_T330.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/18JUL2014:0000/18JUL2014:0100/AORC/
+End: 
+
+Grid: AORC 2003-05-05 Y001 T012
+     Grid: AORC 2003-05-05 Y001 T012
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1079407.822129854
+     Storm Center Y: 1424802.0166682247
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20030505_Y001_T012.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/05MAY2003:0000/05MAY2003:0100/AORC/
+End: 
+
+Grid: AORC 1992-04-20 Y001 T056
+     Grid: AORC 1992-04-20 Y001 T056
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1376767.593269295
+     Storm Center Y: 1634286.7415367283
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19920420_Y001_T056.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/20APR1992:0000/20APR1992:0100/AORC/
+End: 
+
+Grid: AORC 2004-09-06 Y001 T003
+     Grid: AORC 2004-09-06 Y001 T003
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 1226263.7876084782
+     Storm Center Y: 1501286.280740493
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20040906_Y001_T003.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/06SEP2004:0000/06SEP2004:0100/AORC/
+End: 
+
+Grid: AORC 1981-08-06 Y010 T430
+     Grid: AORC 1981-08-06 Y010 T430
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1178860.4872797423
+     Storm Center Y: 1622713.5794623527
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19810806_Y010_T430.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/06AUG1981:0000/06AUG1981:0100/AORC/
+End: 
+
+Grid: AORC 1994-11-26 Y008 T312
+     Grid: AORC 1994-11-26 Y008 T312
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1085845.347757706
+     Storm Center Y: 1421861.0407415791
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19941126_Y008_T312.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/26NOV1994:0000/26NOV1994:0100/AORC/
+End: 
+
+Grid: AORC 1993-09-25 Y007 T383
+     Grid: AORC 1993-09-25 Y007 T383
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1352094.726937447
+     Storm Center Y: 1800584.4420744055
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19930925_Y007_T383.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/25SEP1993:0000/25SEP1993:0100/AORC/
+End: 
+
+Grid: AORC 1983-10-21 Y001 T106
+     Grid: AORC 1983-10-21 Y001 T106
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1131640.1025569304
+     Storm Center Y: 1812236.453973965
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19831021_Y001_T106.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/21OCT1983:0000/21OCT1983:0100/AORC/
+End: 
+
+Grid: AORC 2009-09-24 Y004 T077
+     Grid: AORC 2009-09-24 Y004 T077
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 1155034.832757988
+     Storm Center Y: 1623137.5658943835
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20090924_Y004_T077.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/24SEP2009:0000/24SEP2009:0100/AORC/
+End: 
+
+Grid: AORC 1997-06-01 Y007 T293
+     Grid: AORC 1997-06-01 Y007 T293
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1441966.0374561201
+     Storm Center Y: 1740168.1095919
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19970601_Y007_T293.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/01JUN1997:0000/01JUN1997:0100/AORC/
+End: 
+
+Grid: AORC 2003-03-18 Y010 T272
+     Grid: AORC 2003-03-18 Y010 T272
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1388866.8730815735
+     Storm Center Y: 1579522.291344571
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20030318_Y010_T272.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/18MAR2003:0000/18MAR2003:0100/AORC/
+End: 
+
+Grid: AORC 2006-01-16 Y007 T326
+     Grid: AORC 2006-01-16 Y007 T326
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1123104.4657645507
+     Storm Center Y: 1415412.5841756095
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20060116_Y007_T326.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/16JAN2006:0000/16JAN2006:0100/AORC/
+End: 
+
+Grid: AORC 2012-07-09 Y007 T338
+     Grid: AORC 2012-07-09 Y007 T338
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1220293.2921427707
+     Storm Center Y: 1583409.20376491
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20120709_Y007_T338.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/09JUL2012:0000/09JUL2012:0100/AORC/
+End: 
+
+Grid: AORC 1993-12-03 Y001 T074
+     Grid: AORC 1993-12-03 Y001 T074
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 1034744.0615471997
+     Storm Center Y: 1516999.5324351666
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19931203_Y001_T074.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/03DEC1993:0000/03DEC1993:0100/AORC/
+End: 
+
+Grid: AORC 2006-08-10 Y006 T304
+     Grid: AORC 2006-08-10 Y006 T304
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1284490.875909578
+     Storm Center Y: 1475993.782287175
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20060810_Y006_T304.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/10AUG2006:0000/10AUG2006:0100/AORC/
+End: 
+
+Grid: AORC 1988-08-18 Y007 T412
+     Grid: AORC 1988-08-18 Y007 T412
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1015946.7375769549
+     Storm Center Y: 1548553.683419682
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19880818_Y007_T412.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/18AUG1988:0000/18AUG1988:0100/AORC/
+End: 
+
+Grid: AORC 2016-02-01 Y010 T349
+     Grid: AORC 2016-02-01 Y010 T349
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 1092928.0048113235
+     Storm Center Y: 1366371.8297751937
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20160201_Y010_T349.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/01FEB2016:0000/01FEB2016:0100/AORC/
+End: 
+
+Grid: AORC 1993-03-03 Y003 T194
+     Grid: AORC 1993-03-03 Y003 T194
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1461294.0844644187
+     Storm Center Y: 1910629.7593098348
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19930303_Y003_T194.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/03MAR1993:0000/03MAR1993:0100/AORC/
+End: 
+
+Grid: AORC 1990-08-20 Y008 T285
+     Grid: AORC 1990-08-20 Y008 T285
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 1057864.0246559577
+     Storm Center Y: 1866343.2329594481
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19900820_Y008_T285.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/20AUG1990:0000/20AUG1990:0100/AORC/
+End: 
+
+Grid: AORC 1991-11-08 Y008 T415
+     Grid: AORC 1991-11-08 Y008 T415
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1348265.0182720886
+     Storm Center Y: 1625822.8677850396
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19911108_Y008_T415.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/08NOV1991:0000/08NOV1991:0100/AORC/
+End: 
+
+Grid: AORC 1996-05-25 Y008 T228
+     Grid: AORC 1996-05-25 Y008 T228
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1075261.4966022025
+     Storm Center Y: 1574780.6143014769
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19960525_Y008_T228.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/25MAY1996:0000/25MAY1996:0100/AORC/
+End: 
+
+Grid: AORC 2010-05-01 Y002 T069
+     Grid: AORC 2010-05-01 Y002 T069
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1048972.7967589651
+     Storm Center Y: 1710739.7406064654
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20100501_Y002_T069.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/01MAY2010:0000/01MAY2010:0100/AORC/
+End: 
+
+Grid: AORC 2004-02-05 Y008 T218
+     Grid: AORC 2004-02-05 Y008 T218
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 964296.4739350374
+     Storm Center Y: 1531179.1062438115
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20040205_Y008_T218.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/05FEB2004:0000/05FEB2004:0100/AORC/
+End: 
+
+Grid: AORC 1981-02-09 Y007 T376
+     Grid: AORC 1981-02-09 Y007 T376
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1170863.1464278565
+     Storm Center Y: 1421849.3013659923
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19810209_Y007_T376.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/09FEB1981:0000/09FEB1981:0100/AORC/
+End: 
+
+Grid: AORC 2000-07-04 Y010 T401
+     Grid: AORC 2000-07-04 Y010 T401
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1248181.9155770768
+     Storm Center Y: 1636624.1977587338
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20000704_Y010_T401.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/04JUL2000:0000/04JUL2000:0100/AORC/
+End: 
+
+Grid: AORC 1993-03-22 Y004 T310
+     Grid: AORC 1993-03-22 Y004 T310
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 1376767.593269295
+     Storm Center Y: 1634286.7415367283
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19930322_Y004_T310.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/22MAR1993:0000/22MAR1993:0100/AORC/
+End: 
+
+Grid: AORC 2015-12-23 Y002 T040
+     Grid: AORC 2015-12-23 Y002 T040
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1131037.779198087
+     Storm Center Y: 1401413.5753450638
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20151223_Y002_T040.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/23DEC2015:0000/23DEC2015:0100/AORC/
+End: 
+
+Grid: AORC 1997-05-01 Y009 T379
+     Grid: AORC 1997-05-01 Y009 T379
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1079877.5275252545
+     Storm Center Y: 1421101.433806967
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19970501_Y009_T379.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/01MAY1997:0000/01MAY1997:0100/AORC/
+End: 
+
+Grid: AORC 1988-01-18 Y004 T308
+     Grid: AORC 1988-01-18 Y004 T308
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1025892.2668073877
+     Storm Center Y: 1515915.4091550165
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19880118_Y004_T308.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/18JAN1988:0000/18JAN1988:0100/AORC/
+End: 
+
+Grid: AORC 2011-11-15 Y009 T377
+     Grid: AORC 2011-11-15 Y009 T377
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1119730.676744803
+     Storm Center Y: 1463886.157399204
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20111115_Y009_T377.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/15NOV2011:0000/15NOV2011:0100/AORC/
+End: 
+
+Grid: AORC 1982-01-02 Y001 T071
+     Grid: AORC 1982-01-02 Y001 T071
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1040503.7562943489
+     Storm Center Y: 1371111.2136989695
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19820102_Y001_T071.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/02JAN1982:0000/02JAN1982:0100/AORC/
+End: 
+
+Grid: AORC 2012-09-30 Y003 T213
+     Grid: AORC 2012-09-30 Y003 T213
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1130547.4251926315
+     Storm Center Y: 1405110.6271561375
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20120930_Y003_T213.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/01OCT2012:0000/01OCT2012:0100/AORC/
+End: 
+
+Grid: AORC 1997-07-22 Y010 T394
+     Grid: AORC 1997-07-22 Y010 T394
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 1446703.8133393456
+     Storm Center Y: 1862433.101006934
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19970722_Y010_T394.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/22JUL1997:0000/22JUL1997:0100/AORC/
+End: 
+
+Grid: AORC 1994-03-01 Y010 T333
+     Grid: AORC 1994-03-01 Y010 T333
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1033605.422731613
+     Storm Center Y: 1377787.2497911118
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19940301_Y010_T333.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/01MAR1994:0000/01MAR1994:0100/AORC/
+End: 
+
+Grid: AORC 2010-09-28 Y003 T084
+     Grid: AORC 2010-09-28 Y003 T084
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1439093.815245891
+     Storm Center Y: 1739662.8572808094
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20100928_Y003_T084.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/28SEP2010:0000/28SEP2010:0100/AORC/
+End: 
+
+Grid: AORC 2022-09-30 Y005 T156
+     Grid: AORC 2022-09-30 Y005 T156
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1376767.593269295
+     Storm Center Y: 1634286.7415367283
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20220930_Y005_T156.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/01OCT2022:0000/01OCT2022:0100/AORC/
+End: 
+
+Grid: AORC 1983-10-11 Y006 T275
+     Grid: AORC 1983-10-11 Y006 T275
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1317387.1434157721
+     Storm Center Y: 1594404.0847310305
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19831011_Y006_T275.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/11OCT1983:0000/11OCT1983:0100/AORC/
+End: 
+
+Grid: AORC 1983-12-02 Y004 T208
+     Grid: AORC 1983-12-02 Y004 T208
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 1033605.422731613
+     Storm Center Y: 1377787.2497911118
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19831202_Y004_T208.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/02DEC1983:0000/02DEC1983:0100/AORC/
+End: 
+
+Grid: AORC 2005-10-06 Y001 T031
+     Grid: AORC 2005-10-06 Y001 T031
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 1314130.8166143796
+     Storm Center Y: 1480550.9973936244
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20051006_Y001_T031.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/06OCT2005:0000/06OCT2005:0100/AORC/
+End: 
+
+Grid: AORC 2021-03-16 Y007 T211
+     Grid: AORC 2021-03-16 Y007 T211
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1073442.0665203298
+     Storm Center Y: 1424046.9248126308
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20210316_Y007_T211.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/16MAR2021:0000/16MAR2021:0100/AORC/
+End: 
+
+Grid: AORC 1998-04-17 Y001 T015
+     Grid: AORC 1998-04-17 Y001 T015
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1087538.0430830906
+     Storm Center Y: 1455928.1688511148
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19980417_Y001_T015.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/17APR1998:0000/17APR1998:0100/AORC/
+End: 
+
+Grid: AORC 1986-09-25 Y010 T421
+     Grid: AORC 1986-09-25 Y010 T421
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1319450.240532779
+     Storm Center Y: 1874714.266875409
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19860925_Y010_T421.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/25SEP1986:0000/25SEP1986:0100/AORC/
+End: 
+
+Grid: AORC 1990-02-14 Y006 T159
+     Grid: AORC 1990-02-14 Y006 T159
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1033605.422731613
+     Storm Center Y: 1377787.2497911118
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19900214_Y006_T159.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/14FEB1990:0000/14FEB1990:0100/AORC/
+End: 
+
+Grid: AORC 1998-01-27 Y007 T260
+     Grid: AORC 1998-01-27 Y007 T260
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1437511.9117987386
+     Storm Center Y: 1731799.8065204488
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19980127_Y007_T260.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/27JAN1998:0000/27JAN1998:0100/AORC/
+End: 
+
+Grid: AORC 1981-09-02 Y006 T342
+     Grid: AORC 1981-09-02 Y006 T342
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1360064.0378442837
+     Storm Center Y: 1752675.5438013717
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19810902_Y006_T342.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/02SEP1981:0000/02SEP1981:0100/AORC/
+End: 
+
+Grid: AORC 1996-09-04 Y001 T016
+     Grid: AORC 1996-09-04 Y001 T016
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1500332.0847973383
+     Storm Center Y: 1857034.670242912
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19960904_Y001_T016.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/04SEP1996:0000/04SEP1996:0100/AORC/
+End: 
+
+Grid: AORC 1999-09-28 Y006 T221
+     Grid: AORC 1999-09-28 Y006 T221
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 1462532.2731464424
+     Storm Center Y: 1774177.0726209055
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19990928_Y006_T221.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/28SEP1999:0000/28SEP1999:0100/AORC/
+End: 
+
+Grid: AORC 2021-10-06 Y003 T079
+     Grid: AORC 2021-10-06 Y003 T079
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1163883.3279585317
+     Storm Center Y: 1428421.054048832
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20211006_Y003_T079.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/06OCT2021:0000/06OCT2021:0100/AORC/
+End: 
+
+Grid: AORC 1998-02-02 Y004 T125
+     Grid: AORC 1998-02-02 Y004 T125
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1179714.3570799497
+     Storm Center Y: 1445668.3039823908
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19980202_Y004_T125.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/02FEB1998:0000/02FEB1998:0100/AORC/
+End: 
+
+Grid: AORC 2012-07-18 Y008 T372
+     Grid: AORC 2012-07-18 Y008 T372
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1338667.8191823028
+     Storm Center Y: 1828654.7792712196
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20120718_Y008_T372.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/18JUL2012:0000/18JUL2012:0100/AORC/
+End: 
+
+Grid: AORC 2003-04-08 Y004 T089
+     Grid: AORC 2003-04-08 Y004 T089
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1322265.9598030522
+     Storm Center Y: 1447838.6908879722
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20030408_Y004_T089.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/08APR2003:0000/08APR2003:0100/AORC/
+End: 
+
+Grid: AORC 1987-04-03 Y010 T435
+     Grid: AORC 1987-04-03 Y010 T435
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1146805.166858387
+     Storm Center Y: 1618227.1945991185
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19870403_Y010_T435.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/03APR1987:0000/03APR1987:0100/AORC/
+End: 
+
+Grid: AORC 1980-04-12 Y004 T248
+     Grid: AORC 1980-04-12 Y004 T248
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1170863.1464278565
+     Storm Center Y: 1421849.3013659923
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19800412_Y004_T248.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/12APR1980:0000/12APR1980:0100/AORC/
+End: 
+
+Grid: AORC 2022-05-25 Y007 T171
+     Grid: AORC 2022-05-25 Y007 T171
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1171371.6985781498
+     Storm Center Y: 1418154.3368799784
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20220525_Y007_T171.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/25MAY2022:0000/25MAY2022:0100/AORC/
+End: 
+
+Grid: AORC 2012-09-16 Y001 T061
+     Grid: AORC 2012-09-16 Y001 T061
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1035199.8096895786
+     Storm Center Y: 1513294.5342437737
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20120916_Y001_T061.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/16SEP2012:0000/16SEP2012:0100/AORC/
+End: 
+
+Grid: AORC 1997-10-24 Y002 T067
+     Grid: AORC 1997-10-24 Y002 T067
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1115984.6880187371
+     Storm Center Y: 1376866.4440947108
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19971024_Y002_T067.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/24OCT1997:0000/24OCT1997:0100/AORC/
+End: 
+
+Grid: AORC 1986-12-08 Y003 T257
+     Grid: AORC 1986-12-08 Y003 T257
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1035199.8096895786
+     Storm Center Y: 1513294.5342437737
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19861208_Y003_T257.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/08DEC1986:0000/08DEC1986:0100/AORC/
+End: 
+
+Grid: AORC 2021-08-30 Y004 T086
+     Grid: AORC 2021-08-30 Y004 T086
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1105284.2931211726
+     Storm Center Y: 1435650.2178156502
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20210830_Y004_T086.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/01SEP2021:0000/01SEP2021:0100/AORC/
+End: 
+
+Grid: AORC 2018-09-08 Y002 T035
+     Grid: AORC 2018-09-08 Y002 T035
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1341860.8612200255
+     Storm Center Y: 1999626.6445808033
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20180908_Y002_T035.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/08SEP2018:0000/08SEP2018:0100/AORC/
+End: 
+
+Grid: AORC 1988-05-17 Y008 T419
+     Grid: AORC 1988-05-17 Y008 T419
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 1520911.57349782
+     Storm Center Y: 2024407.9983827479
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19880517_Y008_T419.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/17MAY1988:0000/17MAY1988:0100/AORC/
+End: 
+
+Grid: AORC 1993-03-12 Y008 T413
+     Grid: AORC 1993-03-12 Y008 T413
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1205877.4753880294
+     Storm Center Y: 1517196.441801008
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19930312_Y008_T413.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/12MAR1993:0000/12MAR1993:0100/AORC/
+End: 
+
+Grid: AORC 1981-07-04 Y008 T422
+     Grid: AORC 1981-07-04 Y008 T422
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1105098.643319993
+     Storm Center Y: 1729407.3920683637
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19810704_Y008_T422.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/04JUL1981:0000/04JUL1981:0100/AORC/
+End: 
+
+Grid: AORC 2008-03-18 Y007 T417
+     Grid: AORC 2008-03-18 Y007 T417
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1115655.274203063
+     Storm Center Y: 1843965.380946253
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20080318_Y007_T417.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/18MAR2008:0000/18MAR2008:0100/AORC/
+End: 
+
+Grid: AORC 2021-08-15 Y001 T020
+     Grid: AORC 2021-08-15 Y001 T020
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1175296.8891851045
+     Storm Center Y: 1433757.265691105
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20210815_Y001_T020.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/15AUG2021:0000/15AUG2021:0100/AORC/
+End: 
+
+Grid: AORC 2015-11-30 Y001 T032
+     Grid: AORC 2015-11-30 Y001 T032
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1088829.0576881254
+     Storm Center Y: 1422242.4140296732
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20151130_Y001_T032.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/01DEC2015:0000/01DEC2015:0100/AORC/
+End: 
+
+Grid: AORC 2017-10-08 Y003 T136
+     Grid: AORC 2017-10-08 Y003 T136
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1159933.5935250747
+     Storm Center Y: 1412823.769226134
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20171008_Y003_T136.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/08OCT2017:0000/08OCT2017:0100/AORC/
+End: 
+
+Grid: AORC 2004-09-26 Y003 T063
+     Grid: AORC 2004-09-26 Y003 T063
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1379956.1291831376
+     Storm Center Y: 1668892.0343002684
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20040926_Y003_T063.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/26SEP2004:0000/26SEP2004:0100/AORC/
+End: 
+
+Grid: AORC 2017-05-22 Y004 T144
+     Grid: AORC 2017-05-22 Y004 T144
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1373858.2381774103
+     Storm Center Y: 1633804.3634781872
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20170522_Y004_T144.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/22MAY2017:0000/22MAY2017:0100/AORC/
+End: 
+
+Grid: AORC 2011-09-04 Y001 T002
+     Grid: AORC 2011-09-04 Y001 T002
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1036092.0218401154
+     Storm Center Y: 1457001.7533909967
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20110904_Y001_T002.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/04SEP2011:0000/04SEP2011:0100/AORC/
+End: 
+
+Grid: AORC 2000-11-07 Y002 T109
+     Grid: AORC 2000-11-07 Y002 T109
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1033605.422731613
+     Storm Center Y: 1377787.2497911118
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20001107_Y002_T109.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/07NOV2000:0000/07NOV2000:0100/AORC/
+End: 
+
+Grid: AORC 2021-06-09 Y010 T343
+     Grid: AORC 2021-06-09 Y010 T343
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1221597.6629335994
+     Storm Center Y: 1851736.133580734
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20210609_Y010_T343.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/09JUN2021:0000/09JUN2021:0100/AORC/
+End: 
+
+Grid: AORC 1987-01-17 Y006 T188
+     Grid: AORC 1987-01-17 Y006 T188
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1033605.422731613
+     Storm Center Y: 1377787.2497911118
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19870117_Y006_T188.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/17JAN1987:0000/17JAN1987:0100/AORC/
+End: 
+
+Grid: AORC 2003-11-17 Y005 T113
+     Grid: AORC 2003-11-17 Y005 T113
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1269778.8797979357
+     Storm Center Y: 1553031.9321060432
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20031117_Y005_T113.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/17NOV2003:0000/17NOV2003:0100/AORC/
+End: 
+
+Grid: AORC 2013-04-27 Y009 T157
+     Grid: AORC 2013-04-27 Y009 T157
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1078938.1021118907
+     Storm Center Y: 1428502.7147336202
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20130427_Y009_T157.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/27APR2013:0000/27APR2013:0100/AORC/
+End: 
+
+Grid: AORC 2002-09-20 Y003 T103
+     Grid: AORC 2002-09-20 Y003 T103
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1079877.5275252545
+     Storm Center Y: 1421101.433806967
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20020920_Y003_T103.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/20SEP2002:0000/20SEP2002:0100/AORC/
+End: 
+
+Grid: AORC 2018-09-25 Y006 T112
+     Grid: AORC 2018-09-25 Y006 T112
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1019000.6629029675
+     Storm Center Y: 1473722.2084406368
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20180925_Y006_T112.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/25SEP2018:0000/25SEP2018:0100/AORC/
+End: 
+
+Grid: AORC 2012-02-29 Y005 T258
+     Grid: AORC 2012-02-29 Y005 T258
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1438850.1576472737
+     Storm Center Y: 1807903.7165237602
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20120229_Y005_T258.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/01MAR2012:0000/01MAR2012:0100/AORC/
+End: 
+
+Grid: AORC 1988-11-03 Y010 T427
+     Grid: AORC 1988-11-03 Y010 T427
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1085845.347757706
+     Storm Center Y: 1421861.0407415791
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19881103_Y010_T427.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/03NOV1988:0000/03NOV1988:0100/AORC/
+End: 
+
+Grid: AORC 1980-05-18 Y007 T317
+     Grid: AORC 1980-05-18 Y007 T317
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1379064.0131221376
+     Storm Center Y: 1638453.8885769607
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19800518_Y007_T317.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/18MAY1980:0000/18MAY1980:0100/AORC/
+End: 
+
+Grid: AORC 1987-11-09 Y009 T433
+     Grid: AORC 1987-11-09 Y009 T433
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1475466.949384487
+     Storm Center Y: 1685417.179239813
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19871109_Y009_T433.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/09NOV1987:0000/09NOV1987:0100/AORC/
+End: 
+
+Grid: AORC 2009-05-25 Y010 T341
+     Grid: AORC 2009-05-25 Y010 T341
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1337801.4399797302
+     Storm Center Y: 1616565.958937389
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20090525_Y010_T341.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/25MAY2009:0000/25MAY2009:0100/AORC/
+End: 
+
+Grid: AORC 2020-02-11 Y009 T210
+     Grid: AORC 2020-02-11 Y009 T210
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1138452.754858626
+     Storm Center Y: 1368544.5943501112
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20200211_Y009_T210.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/11FEB2020:0000/11FEB2020:0100/AORC/
+End: 
+
+Grid: AORC 1992-06-03 Y005 T232
+     Grid: AORC 1992-06-03 Y005 T232
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1382417.788294575
+     Storm Center Y: 1654157.207206024
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19920603_Y005_T232.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/03JUN1992:0000/03JUN1992:0100/AORC/
+End: 
+
+Grid: AORC 2004-09-16 Y002 T007
+     Grid: AORC 2004-09-16 Y002 T007
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1220886.4078232744
+     Storm Center Y: 1496734.769766726
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20040916_Y002_T007.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/16SEP2004:0000/16SEP2004:0100/AORC/
+End: 
+
+Grid: AORC 2015-04-14 Y010 T235
+     Grid: AORC 2015-04-14 Y010 T235
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1085453.8823900025
+     Storm Center Y: 1723015.2614833314
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20150414_Y010_T235.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/14APR2015:0000/14APR2015:0100/AORC/
+End: 
+
+Grid: AORC 2013-07-02 Y002 T047
+     Grid: AORC 2013-07-02 Y002 T047
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:27
+     Storm Center X: 1236458.5745538906
+     Storm Center Y: 1514092.3102804176
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20130702_Y002_T047.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/02JUL2013:0000/02JUL2013:0100/AORC/
+End: 
+
+Grid: AORC 2006-08-30 Y002 T081
+     Grid: AORC 2006-08-30 Y002 T081
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 1474833.2188201868
+     Storm Center Y: 1787782.5499250127
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20060830_Y002_T081.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/01SEP2006:0000/01SEP2006:0100/AORC/
+End: 
+
+Grid: AORC 2019-02-18 Y004 T172
+     Grid: AORC 2019-02-18 Y004 T172
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1009688.1155785277
+     Storm Center Y: 1322377.3579549293
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20190218_Y004_T172.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/18FEB2019:0000/18FEB2019:0100/AORC/
+End: 
+
+Grid: AORC 1985-05-22 Y008 T331
+     Grid: AORC 1985-05-22 Y008 T331
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 1430168.6378590453
+     Storm Center Y: 1722931.7510909643
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19850522_Y008_T331.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/22MAY1985:0000/22MAY1985:0100/AORC/
+End: 
+
+Grid: AORC 2019-11-30 Y005 T173
+     Grid: AORC 2019-11-30 Y005 T173
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1012858.3974223334
+     Storm Center Y: 1694918.7348630717
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20191130_Y005_T173.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/01DEC2019:0000/01DEC2019:0100/AORC/
+End: 
+
+Grid: AORC 1983-05-19 Y002 T160
+     Grid: AORC 1983-05-19 Y002 T160
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 1127557.703883348
+     Storm Center Y: 1404714.6225975794
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19830519_Y002_T160.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/19MAY1983:0000/19MAY1983:0100/AORC/
+End: 
+
+Grid: AORC 2003-02-21 Y007 T183
+     Grid: AORC 2003-02-21 Y007 T183
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1197191.0661863526
+     Storm Center Y: 1429281.1629579696
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20030221_Y007_T183.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/21FEB2003:0000/21FEB2003:0100/AORC/
+End: 
+
+Grid: AORC 2011-11-27 Y002 T068
+     Grid: AORC 2011-11-27 Y002 T068
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1037694.4056914933
+     Storm Center Y: 1517362.976576802
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20111127_Y002_T068.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/27NOV2011:0000/27NOV2011:0100/AORC/
+End: 
+
+Grid: AORC 2003-05-08 Y008 T190
+     Grid: AORC 2003-05-08 Y008 T190
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1415402.2001260973
+     Storm Center Y: 1891021.2636887676
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20030508_Y008_T190.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/08MAY2003:0000/08MAY2003:0100/AORC/
+End: 
+
+Grid: AORC 2004-11-23 Y004 T119
+     Grid: AORC 2004-11-23 Y004 T119
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1079877.5275252545
+     Storm Center Y: 1421101.433806967
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20041123_Y004_T119.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/23NOV2004:0000/23NOV2004:0100/AORC/
+End: 
+
+Grid: AORC 1987-09-05 Y001 T019
+     Grid: AORC 1987-09-05 Y001 T019
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1405227.3787165494
+     Storm Center Y: 1642848.4301606745
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19870905_Y001_T019.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/05SEP1987:0000/05SEP1987:0100/AORC/
+End: 
+
+Grid: AORC 2016-12-04 Y007 T299
+     Grid: AORC 2016-12-04 Y007 T299
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 1029296.1407861859
+     Storm Center Y: 1512570.4317012199
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20161204_Y007_T299.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/04DEC2016:0000/04DEC2016:0100/AORC/
+End: 
+
+Grid: AORC 1997-11-07 Y005 T198
+     Grid: AORC 1997-11-07 Y005 T198
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1507718.771990741
+     Storm Center Y: 2033287.4425457162
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19971107_Y005_T198.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/07NOV1997:0000/07NOV1997:0100/AORC/
+End: 
+
+Grid: AORC 2012-05-13 Y004 T254
+     Grid: AORC 2012-05-13 Y004 T254
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 1343192.2769402734
+     Storm Center Y: 1545588.1431011176
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20120513_Y004_T254.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/13MAY2012:0000/13MAY2012:0100/AORC/
+End: 
+
+Grid: AORC 2011-02-23 Y010 T390
+     Grid: AORC 2011-02-23 Y010 T390
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1048735.4773483588
+     Storm Center Y: 1548830.955941693
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20110223_Y010_T390.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/23FEB2011:0000/23FEB2011:0100/AORC/
+End: 
+
+Grid: AORC 1985-10-20 Y003 T138
+     Grid: AORC 1985-10-20 Y003 T138
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1461294.0844644187
+     Storm Center Y: 1910629.7593098348
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19851020_Y003_T138.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/20OCT1985:0000/20OCT1985:0100/AORC/
+End: 
+
+Grid: AORC 2020-11-10 Y003 T030
+     Grid: AORC 2020-11-10 Y003 T030
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1351776.9949418842
+     Storm Center Y: 1622610.5246225207
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20201110_Y003_T030.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/10NOV2020:0000/10NOV2020:0100/AORC/
+End: 
+
+Grid: AORC 2016-02-22 Y009 T319
+     Grid: AORC 2016-02-22 Y009 T319
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 1173336.9906673094
+     Storm Center Y: 1425955.399207099
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20160222_Y009_T319.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/22FEB2016:0000/22FEB2016:0100/AORC/
+End: 
+
+Grid: AORC 1991-08-07 Y010 T420
+     Grid: AORC 1991-08-07 Y010 T420
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 1232831.1949108134
+     Storm Center Y: 1679643.411609519
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19910807_Y010_T420.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/07AUG1991:0000/07AUG1991:0100/AORC/
+End: 
+
+Grid: AORC 1991-03-02 Y006 T361
+     Grid: AORC 1991-03-02 Y006 T361
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 1337641.5339434575
+     Storm Center Y: 1427596.4169630886
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19910302_Y006_T361.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/02MAR1991:0000/02MAR1991:0100/AORC/
+End: 
+
+Grid: AORC 1986-02-17 Y009 T416
+     Grid: AORC 1986-02-17 Y009 T416
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1152278.935702293
+     Storm Center Y: 1600133.6543717743
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19860217_Y009_T416.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/17FEB1986:0000/17FEB1986:0100/AORC/
+End: 
+
+Grid: AORC 1979-06-16 Y010 T309
+     Grid: AORC 1979-06-16 Y010 T309
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 1388082.622135
+     Storm Center Y: 1511293.794386
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19790616_Y010_T309.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/16JUN1979:0000/16JUN1979:0100/AORC/
+End: 
+
+Grid: AORC 1994-02-21 Y004 T142
+     Grid: AORC 1994-02-21 Y004 T142
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1085845.347757706
+     Storm Center Y: 1421861.0407415791
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19940221_Y004_T142.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/21FEB1994:0000/21FEB1994:0100/AORC/
+End: 
+
+Grid: AORC 2022-02-02 Y003 T121
+     Grid: AORC 2022-02-02 Y003 T121
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:27
+     Storm Center X: 1144486.9770586295
+     Storm Center Y: 1391920.4380000753
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20220202_Y003_T121.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/02FEB2022:0000/02FEB2022:0100/AORC/
+End: 
+
+Grid: AORC 2016-05-01 Y004 T230
+     Grid: AORC 2016-05-01 Y004 T230
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1351324.5361647482
+     Storm Center Y: 1588491.9823900475
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20160501_Y004_T230.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/01MAY2016:0000/01MAY2016:0100/AORC/
+End: 
+
+Grid: AORC 2000-09-24 Y003 T193
+     Grid: AORC 2000-09-24 Y003 T193
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:27
+     Storm Center X: 1363676.0376515936
+     Storm Center Y: 1870716.6290375043
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20000924_Y003_T193.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/24SEP2000:0000/24SEP2000:0100/AORC/
+End: 
+
+Grid: AORC 1991-08-12 Y009 T418
+     Grid: AORC 1991-08-12 Y009 T418
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:27
+     Storm Center X: 1233055.2505625659
+     Storm Center Y: 1370359.024249109
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19910812_Y009_T418.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/12AUG1991:0000/12AUG1991:0100/AORC/
+End: 
+
+Grid: AORC 1980-07-03 Y008 T364
+     Grid: AORC 1980-07-03 Y008 T364
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 1046134.7182591109
+     Storm Center Y: 1732974.720420592
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19800703_Y008_T364.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/03JUL1980:0000/03JUL1980:0100/AORC/
+End: 
+
+Grid: AORC 1986-12-23 Y008 T402
+     Grid: AORC 1986-12-23 Y008 T402
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 1296858.7012262144
+     Storm Center Y: 1572293.3188227764
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19861223_Y008_T402.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/23DEC1986:0000/23DEC1986:0100/AORC/
+End: 
+
+Grid: AORC 1997-03-01 Y001 T023
+     Grid: AORC 1997-03-01 Y001 T023
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 1065215.1926879613
+     Storm Center Y: 1788180.2674540696
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19970301_Y001_T023.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/01MAR1997:0000/01MAR1997:0100/AORC/
+End: 
+
+Grid: AORC 2022-07-26 Y001 T051
+     Grid: AORC 2022-07-26 Y001 T051
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1096681.8314818996
+     Storm Center Y: 1660442.1900034503
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20220726_Y001_T051.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/26JUL2022:0000/26JUL2022:0100/AORC/
+End: 
+
+Grid: AORC 2018-02-10 Y004 T057
+     Grid: AORC 2018-02-10 Y004 T057
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1169845.9929470527
+     Storm Center Y: 1429239.587664513
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20180210_Y004_T057.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/10FEB2018:0000/10FEB2018:0100/AORC/
+End: 
+
+Grid: AORC 1998-06-04 Y009 T301
+     Grid: AORC 1998-06-04 Y009 T301
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1075488.1520860414
+     Storm Center Y: 1431825.786903057
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19980604_Y009_T301.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/04JUN1998:0000/04JUN1998:0100/AORC/
+End: 
+
+Grid: AORC 2001-07-29 Y005 T313
+     Grid: AORC 2001-07-29 Y005 T313
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 1095974.0050365722
+     Storm Center Y: 1460777.6051540638
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20010729_Y005_T313.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/29JUL2001:0000/29JUL2001:0100/AORC/
+End: 
+
+Grid: AORC 2020-03-23 Y008 T202
+     Grid: AORC 2020-03-23 Y008 T202
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1080506.3424811247
+     Storm Center Y: 1439983.944275617
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20200323_Y008_T202.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/23MAR2020:0000/23MAR2020:0100/AORC/
+End: 
+
+Grid: AORC 1986-11-24 Y007 T399
+     Grid: AORC 1986-11-24 Y007 T399
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1200693.6923287474
+     Storm Center Y: 1426008.3117684973
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19861124_Y007_T399.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/24NOV1986:0000/24NOV1986:0100/AORC/
+End: 
+
+Grid: AORC 1989-02-13 Y003 T120
+     Grid: AORC 1989-02-13 Y003 T120
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1081454.9272016059
+     Storm Center Y: 1775246.2976893515
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19890213_Y003_T120.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/13FEB1989:0000/13FEB1989:0100/AORC/
+End: 
+
+Grid: AORC 2021-09-21 Y006 T091
+     Grid: AORC 2021-09-21 Y006 T091
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1423134.365262437
+     Storm Center Y: 1729291.4440215682
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20210921_Y006_T091.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/21SEP2021:0000/21SEP2021:0100/AORC/
+End: 
+
+Grid: AORC 2000-04-02 Y001 T058
+     Grid: AORC 2000-04-02 Y001 T058
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1078938.1021118907
+     Storm Center Y: 1428502.7147336202
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20000402_Y001_T058.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/02APR2000:0000/02APR2000:0100/AORC/
+End: 
+
+Grid: AORC 1990-12-21 Y003 T038
+     Grid: AORC 1990-12-21 Y003 T038
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1025892.2668073877
+     Storm Center Y: 1515915.4091550165
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19901221_Y003_T038.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/21DEC1990:0000/21DEC1990:0100/AORC/
+End: 
+
+Grid: AORC 2009-05-02 Y008 T233
+     Grid: AORC 2009-05-02 Y008 T233
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 1022040.2850640276
+     Storm Center Y: 1522967.62874993
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20090502_Y008_T233.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/02MAY2009:0000/02MAY2009:0100/AORC/
+End: 
+
+Grid: AORC 2015-10-02 Y003 T066
+     Grid: AORC 2015-10-02 Y003 T066
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1269066.3101488259
+     Storm Center Y: 1375624.6054689712
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20151002_Y003_T066.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/02OCT2015:0000/02OCT2015:0100/AORC/
+End: 
+
+Grid: AORC 1999-01-07 Y010 T404
+     Grid: AORC 1999-01-07 Y010 T404
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1051855.1874759237
+     Storm Center Y: 1711108.1634260206
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19990107_Y010_T404.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/07JAN1999:0000/07JAN1999:0100/AORC/
+End: 
+
+Grid: AORC 2017-04-24 Y006 T256
+     Grid: AORC 2017-04-24 Y006 T256
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1401250.388146505
+     Storm Center Y: 1683843.0631369269
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20170424_Y006_T256.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/24APR2017:0000/24APR2017:0100/AORC/
+End: 
+
+Grid: AORC 2006-11-15 Y005 T291
+     Grid: AORC 2006-11-15 Y005 T291
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1127068.630360683
+     Storm Center Y: 1408411.9690427464
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20061115_Y005_T291.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/15NOV2006:0000/15NOV2006:0100/AORC/
+End: 
+
+Grid: AORC 2014-01-10 Y006 T268
+     Grid: AORC 2014-01-10 Y006 T268
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1223152.1430590735
+     Storm Center Y: 1353876.8965506905
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20140110_Y006_T268.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/10JAN2014:0000/10JAN2014:0100/AORC/
+End: 
+
+Grid: AORC 1992-08-26 Y009 T367
+     Grid: AORC 1992-08-26 Y009 T367
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 1212952.8610881288
+     Storm Center Y: 1812656.1164410822
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19920826_Y009_T367.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/26AUG1992:0000/26AUG1992:0100/AORC/
+End: 
+
+Grid: AORC 2014-02-03 Y002 T146
+     Grid: AORC 2014-02-03 Y002 T146
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1108263.1654320084
+     Storm Center Y: 1436038.408282466
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20140203_Y002_T146.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/03FEB2014:0000/03FEB2014:0100/AORC/
+End: 
+
+Grid: AORC 2018-12-28 Y008 T137
+     Grid: AORC 2018-12-28 Y008 T137
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 1182797.1138012328
+     Storm Center Y: 1423500.3499795839
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20181228_Y008_T137.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/28DEC2018:0000/28DEC2018:0100/AORC/
+End: 
+
+Grid: AORC 1984-04-21 Y008 T407
+     Grid: AORC 1984-04-21 Y008 T407
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1131640.1025569304
+     Storm Center Y: 1812236.453973965
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19840421_Y008_T407.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/21APR1984:0000/21APR1984:0100/AORC/
+End: 
+
+Grid: AORC 2000-05-23 Y005 T255
+     Grid: AORC 2000-05-23 Y005 T255
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1038151.4532990375
+     Storm Center Y: 1513658.1384626674
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20000523_Y005_T255.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/23MAY2000:0000/23MAY2000:0100/AORC/
+End: 
+
+Grid: AORC 1996-11-29 Y009 T239
+     Grid: AORC 1996-11-29 Y009 T239
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1170863.1464278565
+     Storm Center Y: 1421849.3013659923
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19961129_Y009_T239.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/01DEC1996:0000/01DEC1996:0100/AORC/
+End: 
+
+Grid: AORC 1998-12-12 Y006 T195
+     Grid: AORC 1998-12-12 Y006 T195
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1028389.8322048337
+     Storm Center Y: 1519981.1514603347
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19981212_Y006_T195.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/12DEC1998:0000/12DEC1998:0100/AORC/
+End: 
+
+Grid: AORC 1989-09-20 Y002 T111
+     Grid: AORC 1989-09-20 Y002 T111
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 1293927.6074407184
+     Storm Center Y: 1571838.9718682119
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19890920_Y002_T111.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/20SEP1989:0000/20SEP1989:0100/AORC/
+End: 
+
+Grid: AORC 1985-10-30 Y007 T311
+     Grid: AORC 1985-10-30 Y007 T311
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1232954.4475432604
+     Storm Center Y: 1434395.2744302312
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19851030_Y007_T311.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/01NOV1985:0000/01NOV1985:0100/AORC/
+End: 
+
+Grid: AORC 2017-11-05 Y010 T334
+     Grid: AORC 2017-11-05 Y010 T334
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1182892.110771765
+     Storm Center Y: 1917719.6786392385
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20171105_Y010_T334.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/05NOV2017:0000/05NOV2017:0100/AORC/
+End: 
+
+Grid: AORC 2008-07-08 Y008 T426
+     Grid: AORC 2008-07-08 Y008 T426
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1078155.6460916288
+     Storm Center Y: 1338198.9270025317
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20080708_Y008_T426.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/08JUL2008:0000/08JUL2008:0100/AORC/
+End: 
+
+Grid: AORC 1995-02-15 Y004 T054
+     Grid: AORC 1995-02-15 Y004 T054
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 1127068.630360683
+     Storm Center Y: 1408411.9690427464
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19950215_Y004_T054.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/15FEB1995:0000/15FEB1995:0100/AORC/
+End: 
+
+Grid: AORC 2013-12-21 Y005 T093
+     Grid: AORC 2013-12-21 Y005 T093
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1127068.630360683
+     Storm Center Y: 1408411.9690427464
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20131221_Y005_T093.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/21DEC2013:0000/21DEC2013:0100/AORC/
+End: 
+
+Grid: AORC 2001-07-06 Y008 T423
+     Grid: AORC 2001-07-06 Y008 T423
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1291222.2739301508
+     Storm Center Y: 1722612.629579862
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20010706_Y008_T423.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/06JUL2001:0000/06JUL2001:0100/AORC/
+End: 
+
+Grid: AORC 2011-04-15 Y006 T241
+     Grid: AORC 2011-04-15 Y006 T241
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1127557.703883348
+     Storm Center Y: 1404714.6225975794
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20110415_Y006_T241.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/15APR2011:0000/15APR2011:0100/AORC/
+End: 
+
+Grid: AORC 2003-09-21 Y009 T261
+     Grid: AORC 2003-09-21 Y009 T261
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 1001970.8504971919
+     Storm Center Y: 1490478.9584722125
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20030921_Y009_T261.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/21SEP2003:0000/21SEP2003:0100/AORC/
+End: 
+
+Grid: AORC 1988-07-11 Y005 T353
+     Grid: AORC 1988-07-11 Y005 T353
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 980665.7567578887
+     Storm Center Y: 1544351.9190375705
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19880711_Y005_T353.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/11JUL1988:0000/11JUL1988:0100/AORC/
+End: 
+
+Grid: AORC 1989-10-17 Y004 T140
+     Grid: AORC 1989-10-17 Y004 T140
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 1140678.5026058748
+     Storm Center Y: 1662626.1301596083
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19891017_Y004_T140.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/17OCT1989:0000/17OCT1989:0100/AORC/
+End: 
+
+Grid: AORC 2016-11-28 Y002 T065
+     Grid: AORC 2016-11-28 Y002 T065
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1051053.5082265092
+     Storm Center Y: 1530308.3208237644
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20161128_Y002_T065.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/28NOV2016:0000/28NOV2016:0100/AORC/
+End: 
+
+Grid: AORC 2010-10-25 Y004 T129
+     Grid: AORC 2010-10-25 Y004 T129
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1130057.0548906287
+     Storm Center Y: 1408807.801835955
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20101025_Y004_T129.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/25OCT2010:0000/25OCT2010:0100/AORC/
+End: 
+
+Grid: AORC 2015-07-01 Y007 T165
+     Grid: AORC 2015-07-01 Y007 T165
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1064955.6585741064
+     Storm Center Y: 1419220.7332207018
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20150701_Y007_T165.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/01JUL2015:0000/01JUL2015:0100/AORC/
+End: 
+
+Grid: AORC 2002-01-23 Y001 T021
+     Grid: AORC 2002-01-23 Y001 T021
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 999011.0792342506
+     Storm Center Y: 1490128.0456845101
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20020123_Y001_T021.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/23JAN2002:0000/23JAN2002:0100/AORC/
+End: 
+
+Grid: AORC 2022-11-11 Y008 T185
+     Grid: AORC 2022-11-11 Y008 T185
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 1445487.2045111782
+     Storm Center Y: 1736995.6294932258
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20221111_Y008_T185.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/11NOV2022:0000/11NOV2022:0100/AORC/
+End: 
+
+Grid: AORC 1980-09-28 Y005 T265
+     Grid: AORC 1980-09-28 Y005 T265
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1232954.4475432604
+     Storm Center Y: 1434395.2744302312
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19800928_Y005_T265.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/28SEP1980:0000/28SEP1980:0100/AORC/
+End: 
+
+Grid: AORC 1989-09-14 Y007 T180
+     Grid: AORC 1989-09-14 Y007 T180
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1067698.8266540268
+     Storm Center Y: 1679248.77005477
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19890914_Y007_T180.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/14SEP1989:0000/14SEP1989:0100/AORC/
+End: 
+
+Grid: AORC 2000-12-14 Y006 T348
+     Grid: AORC 2000-12-14 Y006 T348
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 987856.1229566023
+     Storm Center Y: 1533917.904598945
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20001214_Y006_T348.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/14DEC2000:0000/14DEC2000:0100/AORC/
+End: 
+
+Grid: AORC 2011-12-06 Y007 T264
+     Grid: AORC 2011-12-06 Y007 T264
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1369254.1834875257
+     Storm Center Y: 1625473.6538632084
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20111206_Y007_T264.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/06DEC2011:0000/06DEC2011:0100/AORC/
+End: 
+
+Grid: AORC 1979-03-03 Y004 T134
+     Grid: AORC 1979-03-03 Y004 T134
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 1127068.63036
+     Storm Center Y: 1408411.969042
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19790303_Y004_T134.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/03MAR1979:0000/03MAR1979:0100/AORC/
+End: 
+
+Grid: AORC 1991-03-21 Y007 T388
+     Grid: AORC 1991-03-21 Y007 T388
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1141482.9900796688
+     Storm Center Y: 1613724.8620029632
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19910321_Y007_T388.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/21MAR1991:0000/21MAR1991:0100/AORC/
+End: 
+
+Grid: AORC 1996-08-11 Y004 T128
+     Grid: AORC 1996-08-11 Y004 T128
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1309159.1731594126
+     Storm Center Y: 1570432.6092427976
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19960811_Y004_T128.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/11AUG1996:0000/11AUG1996:0100/AORC/
+End: 
+
+Grid: AORC 2010-08-17 Y008 T295
+     Grid: AORC 2010-08-17 Y008 T295
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1251090.289368947
+     Storm Center Y: 1637062.495858098
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20100817_Y008_T295.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/17AUG2010:0000/17AUG2010:0100/AORC/
+End: 
+
+Grid: AORC 2022-05-06 Y010 T263
+     Grid: AORC 2022-05-06 Y010 T263
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1294148.0013803998
+     Storm Center Y: 1851691.207211396
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20220506_Y010_T263.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/06MAY2022:0000/06MAY2022:0100/AORC/
+End: 
+
+Grid: AORC 2018-10-09 Y003 T048
+     Grid: AORC 2018-10-09 Y003 T048
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1330822.5743338342
+     Storm Center Y: 1604101.2688828043
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20181009_Y003_T048.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/09OCT2018:0000/09OCT2018:0100/AORC/
+End: 
+
+Grid: AORC 1991-12-01 Y001 T014
+     Grid: AORC 1991-12-01 Y001 T014
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1035199.8096895786
+     Storm Center Y: 1513294.5342437737
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19911201_Y001_T014.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/01DEC1991:0000/01DEC1991:0100/AORC/
+End: 
+
+Grid: AORC 1982-05-28 Y007 T373
+     Grid: AORC 1982-05-28 Y007 T373
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1113101.8514639905
+     Storm Center Y: 1862469.6186485705
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19820528_Y007_T373.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/28MAY1982:0000/28MAY1982:0100/AORC/
+End: 
+
+Grid: AORC 1992-07-01 Y008 T321
+     Grid: AORC 1992-07-01 Y008 T321
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 1056605.4960797164
+     Storm Center Y: 1339277.304141625
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19920701_Y008_T321.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/01JUL1992:0000/01JUL1992:0100/AORC/
+End: 
+
+Grid: AORC 2013-04-17 Y010 T324
+     Grid: AORC 2013-04-17 Y010 T324
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1052283.7417358363
+     Storm Center Y: 1684800.079413092
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20130417_Y010_T324.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/17APR2013:0000/17APR2013:0100/AORC/
+End: 
+
+Grid: AORC 2002-09-13 Y005 T150
+     Grid: AORC 2002-09-13 Y005 T150
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1177341.563632385
+     Storm Center Y: 1418978.1259721804
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20020913_Y005_T150.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/13SEP2002:0000/13SEP2002:0100/AORC/
+End: 
+
+Grid: AORC 1998-01-06 Y003 T108
+     Grid: AORC 1998-01-06 Y003 T108
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1153959.41558887
+     Storm Center Y: 1412012.1930102964
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19980106_Y003_T108.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/06JAN1998:0000/06JAN1998:0100/AORC/
+End: 
+
+Grid: AORC 2014-12-22 Y007 T270
+     Grid: AORC 2014-12-22 Y007 T270
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1034494.7840846495
+     Storm Center Y: 1543299.1807799751
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20141222_Y007_T270.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/22DEC2014:0000/22DEC2014:0100/AORC/
+End: 
+
+Grid: AORC 1984-08-10 Y004 T200
+     Grid: AORC 1984-08-10 Y004 T200
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1458782.2059238856
+     Storm Center Y: 1762120.398649854
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19840810_Y004_T200.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/10AUG1984:0000/10AUG1984:0100/AORC/
+End: 
+
+Grid: AORC 1994-02-09 Y003 T028
+     Grid: AORC 1994-02-09 Y003 T028
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1045622.7475280542
+     Storm Center Y: 1525868.4840015376
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19940209_Y003_T028.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/09FEB1994:0000/09FEB1994:0100/AORC/
+End: 
+
+Grid: AORC 1989-08-21 Y008 T251
+     Grid: AORC 1989-08-21 Y008 T251
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1355949.3972651549
+     Storm Center Y: 1812589.8526804927
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19890821_Y008_T251.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/21AUG1989:0000/21AUG1989:0100/AORC/
+End: 
+
+Grid: AORC 1991-04-13 Y005 T320
+     Grid: AORC 1991-04-13 Y005 T320
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1177056.3667458778
+     Storm Center Y: 1879104.480654953
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19910413_Y005_T320.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/13APR1991:0000/13APR1991:0100/AORC/
+End: 
+
+Grid: AORC 1984-10-21 Y009 T409
+     Grid: AORC 1984-10-21 Y009 T409
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1130057.0548906287
+     Storm Center Y: 1408807.801835955
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19841021_Y009_T409.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/21OCT1984:0000/21OCT1984:0100/AORC/
+End: 
+
+Grid: AORC 2005-03-31 Y009 T406
+     Grid: AORC 2005-03-31 Y009 T406
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1040503.7562943489
+     Storm Center Y: 1371111.2136989695
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20050331_Y009_T406.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/01APR2005:0000/01APR2005:0100/AORC/
+End: 
+
+Grid: AORC 1988-11-19 Y003 T297
+     Grid: AORC 1988-11-19 Y003 T297
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1057632.3112841332
+     Storm Center Y: 1734450.4736106927
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19881119_Y003_T297.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/19NOV1988:0000/19NOV1988:0100/AORC/
+End: 
+
+Grid: AORC 1999-11-24 Y005 T207
+     Grid: AORC 1999-11-24 Y005 T207
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1205877.4753880294
+     Storm Center Y: 1517196.441801008
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19991124_Y005_T207.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/24NOV1999:0000/24NOV1999:0100/AORC/
+End: 
+
+Grid: AORC 1994-03-26 Y001 T009
+     Grid: AORC 1994-03-26 Y001 T009
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1079877.5275252545
+     Storm Center Y: 1421101.433806967
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19940326_Y001_T009.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/26MAR1994:0000/26MAR1994:0100/AORC/
+End: 
+
+Grid: AORC 2012-12-08 Y010 T397
+     Grid: AORC 2012-12-08 Y010 T397
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1102411.2726651502
+     Storm Center Y: 1683815.6508823982
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20121208_Y010_T397.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/08DEC2012:0000/08DEC2012:0100/AORC/
+End: 
+
+Grid: AORC 1986-10-24 Y004 T279
+     Grid: AORC 1986-10-24 Y004 T279
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1138801.6162193634
+     Storm Center Y: 1319711.7807368992
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19861024_Y004_T279.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/24OCT1986:0000/24OCT1986:0100/AORC/
+End: 
+
+Grid: AORC 2009-09-19 Y002 T050
+     Grid: AORC 2009-09-19 Y002 T050
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1165907.2006860217
+     Storm Center Y: 1413639.53601525
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20090919_Y002_T050.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/19SEP2009:0000/19SEP2009:0100/AORC/
+End: 
+
+Grid: AORC 2005-04-28 Y006 T382
+     Grid: AORC 2005-04-28 Y006 T382
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1070111.492516879
+     Storm Center Y: 1683328.2664502023
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20050428_Y006_T382.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/28APR2005:0000/28APR2005:0100/AORC/
+End: 
+
+Grid: AORC 2010-09-25 Y009 T316
+     Grid: AORC 2010-09-25 Y009 T316
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1373712.1370488943
+     Storm Center Y: 1561883.0547718282
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20100925_Y009_T316.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/25SEP2010:0000/25SEP2010:0100/AORC/
+End: 
+
+Grid: AORC 1979-02-23 Y003 T118
+     Grid: AORC 1979-02-23 Y003 T118
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1424276.420297
+     Storm Center Y: 1494637.052773
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19790223_Y003_T118.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/23FEB1979:0000/23FEB1979:0100/AORC/
+End: 
+
+Grid: AORC 1987-08-21 Y008 T431
+     Grid: AORC 1987-08-21 Y008 T431
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1350255.5994568244
+     Storm Center Y: 1811640.6767238404
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19870821_Y008_T431.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/21AUG1987:0000/21AUG1987:0100/AORC/
+End: 
+
+Grid: AORC 1985-05-15 Y010 T389
+     Grid: AORC 1985-05-15 Y010 T389
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1254410.9887421206
+     Storm Center Y: 1732021.629010713
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19850515_Y010_T389.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/15MAY1985:0000/15MAY1985:0100/AORC/
+End: 
+
+Grid: AORC 1986-10-12 Y006 T368
+     Grid: AORC 1986-10-12 Y006 T368
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1130057.0548906287
+     Storm Center Y: 1408807.801835955
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19861012_Y006_T368.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/12OCT1986:0000/12OCT1986:0100/AORC/
+End: 
+
+Grid: AORC 2015-07-13 Y004 T078
+     Grid: AORC 2015-07-13 Y004 T078
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1114478.0256752267
+     Storm Center Y: 1681668.5191543484
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20150713_Y004_T078.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/13JUL2015:0000/13JUL2015:0100/AORC/
+End: 
+
+Grid: AORC 2015-09-27 Y005 T127
+     Grid: AORC 2015-09-27 Y005 T127
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 1373248.0565376808
+     Storm Center Y: 1637488.5409980111
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20150927_Y005_T127.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/27SEP2015:0000/27SEP2015:0100/AORC/
+End: 
+
+Grid: AORC 1985-01-02 Y006 T276
+     Grid: AORC 1985-01-02 Y006 T276
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1453785.0075207893
+     Storm Center Y: 1552692.235368865
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19850102_Y006_T276.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/02JAN1985:0000/02JAN1985:0100/AORC/
+End: 
+
+Grid: AORC 2017-06-22 Y007 T294
+     Grid: AORC 2017-06-22 Y007 T294
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 1118501.5854123915
+     Storm Center Y: 1885846.37490906
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20170622_Y007_T294.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/22JUN2017:0000/22JUN2017:0100/AORC/
+End: 
+
+Grid: AORC 1979-04-11 Y005 T186
+     Grid: AORC 1979-04-11 Y005 T186
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1084853.9773749078
+     Storm Center Y: 1357829.1938514595
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19790411_Y005_T186.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/11APR1979:0000/11APR1979:0100/AORC/
+End: 
+
+Grid: AORC 1984-02-22 Y007 T405
+     Grid: AORC 1984-02-22 Y007 T405
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1375860.762549803
+     Storm Center Y: 1728802.296492277
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19840222_Y007_T405.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/22FEB1984:0000/22FEB1984:0100/AORC/
+End: 
+
+Grid: AORC 1999-01-22 Y008 T253
+     Grid: AORC 1999-01-22 Y008 T253
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1128046.7611525615
+     Storm Center Y: 1401017.399026862
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19990122_Y008_T253.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/22JAN1999:0000/22JAN1999:0100/AORC/
+End: 
+
+Grid: AORC 2017-01-21 Y008 T315
+     Grid: AORC 2017-01-21 Y008 T315
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1220823.9533247903
+     Storm Center Y: 1455255.8779450788
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20170121_Y008_T315.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/21JAN2017:0000/21JAN2017:0100/AORC/
+End: 
+
+Grid: AORC 1986-08-31 Y005 T366
+     Grid: AORC 1986-08-31 Y005 T366
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1074784.814011771
+     Storm Center Y: 1578484.160761026
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19860831_Y005_T366.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/01SEP1986:0000/01SEP1986:0100/AORC/
+End: 
+
+Grid: AORC 1997-06-12 Y006 T224
+     Grid: AORC 1997-06-12 Y006 T224
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1101913.9892240393
+     Storm Center Y: 1461548.493701714
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19970612_Y006_T224.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/12JUN1997:0000/12JUN1997:0100/AORC/
+End: 
+
+Grid: AORC 2013-12-06 Y007 T114
+     Grid: AORC 2013-12-06 Y007 T114
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:27
+     Storm Center X: 1103896.4165352322
+     Storm Center Y: 1672708.0073561957
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20131206_Y007_T114.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/06DEC2013:0000/06DEC2013:0100/AORC/
+End: 
+
+Grid: AORC 1981-09-14 Y005 T335
+     Grid: AORC 1981-09-14 Y005 T335
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1154520.4175185305
+     Storm Center Y: 1626836.7009211278
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19810914_Y005_T335.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/14SEP1981:0000/14SEP1981:0100/AORC/
+End: 
+
+Grid: AORC 2021-02-27 Y002 T064
+     Grid: AORC 2021-02-27 Y002 T064
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1069108.5641904392
+     Storm Center Y: 1645532.9936324782
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20210227_Y002_T064.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/01MAR2021:0000/01MAR2021:0100/AORC/
+End: 
+
+Grid: AORC 1997-09-23 Y003 T126
+     Grid: AORC 1997-09-23 Y003 T126
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1079877.5275252545
+     Storm Center Y: 1421101.433806967
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19970923_Y003_T126.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/23SEP1997:0000/23SEP1997:0100/AORC/
+End: 
+
+Grid: AORC 2005-02-20 Y004 T344
+     Grid: AORC 2005-02-20 Y004 T344
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1040503.7562943489
+     Storm Center Y: 1371111.2136989695
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20050220_Y004_T344.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/20FEB2005:0000/20FEB2005:0100/AORC/
+End: 
+
+Grid: AORC 2011-06-18 Y003 T149
+     Grid: AORC 2011-06-18 Y003 T149
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1084051.3247742858
+     Storm Center Y: 1575916.6523624235
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20110618_Y003_T149.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/18JUN2011:0000/18JUN2011:0100/AORC/
+End: 
+
+Grid: AORC 1987-02-27 Y003 T044
+     Grid: AORC 1987-02-27 Y003 T044
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 1279288.9677245256
+     Storm Center Y: 1490300.0699147882
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19870227_Y003_T044.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/01MAR1987:0000/01MAR1987:0100/AORC/
+End: 
+
+Grid: AORC 1989-06-14 Y005 T148
+     Grid: AORC 1989-06-14 Y005 T148
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1186295.2740308738
+     Storm Center Y: 1420221.6611298737
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19890614_Y005_T148.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/14JUN1989:0000/14JUN1989:0100/AORC/
+End: 
+
+Grid: AORC 1992-12-10 Y007 T269
+     Grid: AORC 1992-12-10 Y007 T269
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 1493412.1799053454
+     Storm Center Y: 1878549.3181414036
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19921210_Y007_T269.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/10DEC1992:0000/10DEC1992:0100/AORC/
+End: 
+
+Grid: AORC 2010-02-04 Y006 T192
+     Grid: AORC 2010-02-04 Y006 T192
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1079877.5275252545
+     Storm Center Y: 1421101.433806967
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20100204_Y006_T192.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/04FEB2010:0000/04FEB2010:0100/AORC/
+End: 
+
+Grid: AORC 2019-10-20 Y008 T273
+     Grid: AORC 2019-10-20 Y008 T273
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1429106.676198748
+     Storm Center Y: 1643143.9767450274
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20191020_Y008_T273.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/20OCT2019:0000/20OCT2019:0100/AORC/
+End: 
+
+Grid: AORC 1982-06-11 Y006 T370
+     Grid: AORC 1982-06-11 Y006 T370
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1375860.762549803
+     Storm Center Y: 1728802.296492277
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19820611_Y006_T370.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/11JUN1982:0000/11JUN1982:0100/AORC/
+End: 
+
+Grid: AORC 2005-01-03 Y007 T391
+     Grid: AORC 2005-01-03 Y007 T391
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1115234.3554238046
+     Storm Center Y: 1990988.6090524257
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20050103_Y007_T391.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/03JAN2005:0000/03JAN2005:0100/AORC/
+End: 
+
+Grid: AORC 1996-07-29 Y010 T246
+     Grid: AORC 1996-07-29 Y010 T246
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1349793.087681986
+     Storm Center Y: 1849439.8603948692
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19960729_Y010_T246.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/29JUL1996:0000/29JUL1996:0100/AORC/
+End: 
+
+Grid: AORC 1984-07-16 Y005 T325
+     Grid: AORC 1984-07-16 Y005 T325
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1183139.0668730065
+     Storm Center Y: 1529045.654540724
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19840716_Y005_T325.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/16JUL1984:0000/16JUL1984:0100/AORC/
+End: 
+
+Grid: AORC 2010-11-29 Y001 T039
+     Grid: AORC 2010-11-29 Y001 T039
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1014598.6676692761
+     Storm Center Y: 1559673.6980343906
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20101129_Y001_T039.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/01DEC2010:0000/01DEC2010:0100/AORC/
+End: 
+
+Grid: AORC 2016-06-21 Y001 T060
+     Grid: AORC 2016-06-21 Y001 T060
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 1350850.9205689977
+     Storm Center Y: 1754934.8031922958
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20160621_Y001_T060.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/21JUN2016:0000/21JUN2016:0100/AORC/
+End: 
+
+Grid: AORC 1988-09-02 Y002 T280
+     Grid: AORC 1988-09-02 Y002 T280
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1034052.8927211573
+     Storm Center Y: 1374085.2733820612
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19880902_Y002_T280.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/02SEP1988:0000/02SEP1988:0100/AORC/
+End: 
+
+Grid: AORC 2002-11-10 Y009 T247
+     Grid: AORC 2002-11-10 Y009 T247
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1119730.676744803
+     Storm Center Y: 1463886.157399204
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20021110_Y009_T247.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/10NOV2002:0000/10NOV2002:0100/AORC/
+End: 
+
+Grid: AORC 1980-03-19 Y002 T097
+     Grid: AORC 1980-03-19 Y002 T097
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1033605.422731613
+     Storm Center Y: 1377787.2497911118
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19800319_Y002_T097.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/19MAR1980:0000/19MAR1980:0100/AORC/
+End: 
+
+Grid: AORC 1983-07-22 Y005 T262
+     Grid: AORC 1983-07-22 Y005 T262
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1328835.1450565085
+     Storm Center Y: 1781607.6661244247
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19830722_Y005_T262.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/22JUL1983:0000/22JUL1983:0100/AORC/
+End: 
+
+Grid: AORC 1979-07-19 Y006 T203
+     Grid: AORC 1979-07-19 Y006 T203
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1035258.1969881412
+     Storm Center Y: 1389256.521113361
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19790719_Y006_T203.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/19JUL1979:0000/19JUL1979:0100/AORC/
+End: 
+
+Grid: AORC 2007-09-13 Y008 T438
+     Grid: AORC 2007-09-13 Y008 T438
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1174356.703339335
+     Storm Center Y: 1418565.7079575874
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20070913_Y008_T438.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/13SEP2007:0000/13SEP2007:0100/AORC/
+End: 
+
+Grid: AORC 2014-10-06 Y005 T259
+     Grid: AORC 2014-10-06 Y005 T259
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 1127419.3337789709
+     Storm Center Y: 1694738.782540597
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20141006_Y005_T259.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/06OCT2014:0000/06OCT2014:0100/AORC/
+End: 
+
+Grid: AORC 2010-05-16 Y007 T214
+     Grid: AORC 2010-05-16 Y007 T214
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1359086.028963816
+     Storm Center Y: 1540587.6468690624
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20100516_Y007_T214.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/16MAY2010:0000/16MAY2010:0100/AORC/
+End: 
+
+Grid: AORC 2004-05-30 Y007 T216
+     Grid: AORC 2004-05-30 Y007 T216
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 1069146.8020075432
+     Storm Center Y: 1713339.9286714117
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20040530_Y007_T216.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/01JUN2004:0000/01JUN2004:0100/AORC/
+End: 
+
+Grid: AORC 1996-06-07 Y007 T176
+     Grid: AORC 1996-06-07 Y007 T176
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1033605.422731613
+     Storm Center Y: 1377787.2497911118
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19960607_Y007_T176.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/07JUN1996:0000/07JUN1996:0100/AORC/
+End: 
+
+Grid: AORC 1979-03-22 Y007 T205
+     Grid: AORC 1979-03-22 Y007 T205
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1269778.879797
+     Storm Center Y: 1553031.932106
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19790322_Y007_T205.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/22MAR1979:0000/22MAR1979:0100/AORC/
+End: 
+
+Grid: AORC 2002-01-19 Y004 T145
+     Grid: AORC 2002-01-19 Y004 T145
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1078468.3676127235
+     Storm Center Y: 1432203.5268894548
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20020119_Y004_T145.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/19JAN2002:0000/19JAN2002:0100/AORC/
+End: 
+
+Grid: AORC 1997-02-26 Y004 T130
+     Grid: AORC 1997-02-26 Y004 T130
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:27
+     Storm Center X: 1127068.630360683
+     Storm Center Y: 1408411.9690427464
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19970226_Y004_T130.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/26FEB1997:0000/26FEB1997:0100/AORC/
+End: 
+
+Grid: AORC 1993-08-04 Y010 T437
+     Grid: AORC 1993-08-04 Y010 T437
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1046054.0058466137
+     Storm Center Y: 1375544.4294331858
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19930804_Y010_T437.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/04AUG1993:0000/04AUG1993:0100/AORC/
+End: 
+
+Grid: AORC 1997-08-17 Y008 T300
+     Grid: AORC 1997-08-17 Y008 T300
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:27
+     Storm Center X: 1191870.5673585425
+     Storm Center Y: 1915273.9177259977
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19970817_Y008_T300.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/17AUG1997:0000/17AUG1997:0100/AORC/
+End: 
+
+Grid: AORC 1989-03-04 Y010 T328
+     Grid: AORC 1989-03-04 Y010 T328
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 965044.3823398247
+     Storm Center Y: 1576368.4575860235
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19890304_Y010_T328.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/04MAR1989:0000/04MAR1989:0100/AORC/
+End: 
+
+Grid: AORC 2002-03-30 Y007 T227
+     Grid: AORC 2002-03-30 Y007 T227
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1081847.6753590715
+     Storm Center Y: 1357449.2187473457
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20020330_Y007_T227.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/01APR2002:0000/01APR2002:0100/AORC/
+End: 
+
+Grid: AORC 2020-05-19 Y001 T004
+     Grid: AORC 2020-05-19 Y001 T004
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1395266.734567314
+     Storm Center Y: 1648739.4968360409
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20200519_Y001_T004.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/19MAY2020:0000/19MAY2020:0100/AORC/
+End: 
+
+Grid: AORC 2005-08-29 Y008 T398
+     Grid: AORC 2005-08-29 Y008 T398
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1143862.872204673
+     Storm Center Y: 1949786.620909944
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20050829_Y008_T398.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/29AUG2005:0000/29AUG2005:0100/AORC/
+End: 
+
+Grid: AORC 1996-03-05 Y002 T073
+     Grid: AORC 1996-03-05 Y002 T073
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1084853.9773749078
+     Storm Center Y: 1357829.1938514595
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19960305_Y002_T073.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/05MAR1996:0000/05MAR1996:0100/AORC/
+End: 
+
+Grid: AORC 1992-05-06 Y003 T217
+     Grid: AORC 1992-05-06 Y003 T217
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 1223843.8481925726
+     Storm Center Y: 1497163.5028285154
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19920506_Y003_T217.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/06MAY1992:0000/06MAY1992:0100/AORC/
+End: 
+
+Grid: AORC 2019-02-22 Y002 T046
+     Grid: AORC 2019-02-22 Y002 T046
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1043852.8204359922
+     Storm Center Y: 1491796.578396655
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20190222_Y002_T046.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/22FEB2019:0000/22FEB2019:0100/AORC/
+End: 
+
+Grid: AORC 1985-11-26 Y005 T155
+     Grid: AORC 1985-11-26 Y005 T155
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1356078.5844819369
+     Storm Center Y: 1846704.143383163
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19851126_Y005_T155.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/26NOV1985:0000/26NOV1985:0100/AORC/
+End: 
+
+Grid: AORC 1980-08-17 Y006 T277
+     Grid: AORC 1980-08-17 Y006 T277
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:24
+     Storm Center X: 1355949.3972651549
+     Storm Center Y: 1812589.8526804927
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19800817_Y006_T277.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/17AUG1980:0000/17AUG1980:0100/AORC/
+End: 
+
+Grid: AORC 2016-02-14 Y008 T302
+     Grid: AORC 2016-02-14 Y008 T302
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1067311.434211336
+     Storm Center Y: 1543649.191326071
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20160214_Y008_T302.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/14FEB2016:0000/14FEB2016:0100/AORC/
+End: 
+
+Grid: AORC 1981-05-18 Y003 T298
+     Grid: AORC 1981-05-18 Y003 T298
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1001803.7816706264
+     Storm Center Y: 1640886.2904591851
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19810518_Y003_T298.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/18MAY1981:0000/18MAY1981:0100/AORC/
+End: 
+
+Grid: AORC 2011-03-08 Y008 T284
+     Grid: AORC 2011-03-08 Y008 T284
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1160940.2463000687
+     Storm Center Y: 1405433.0280077953
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20110308_Y008_T284.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/08MAR2011:0000/08MAR2011:0100/AORC/
+End: 
+
+Grid: AORC 2007-04-14 Y002 T305
+     Grid: AORC 2007-04-14 Y002 T305
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1413635.3656011743
+     Storm Center Y: 1867951.2522113805
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20070414_Y002_T305.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/14APR2007:0000/14APR2007:0100/AORC/
+End: 
+
+Grid: AORC 2013-07-05 Y008 T143
+     Grid: AORC 2013-07-05 Y008 T143
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1044700.7827741883
+     Storm Center Y: 1533277.7843618288
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20130705_Y008_T143.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/05JUL2013:0000/05JUL2013:0100/AORC/
+End: 
+
+Grid: AORC 1990-10-11 Y001 T008
+     Grid: AORC 1990-10-11 Y001 T008
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1431761.4212318365
+     Storm Center Y: 1730793.4358781374
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19901011_Y001_T008.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/11OCT1990:0000/11OCT1990:0100/AORC/
+End: 
+
+Grid: AORC 2022-12-06 Y009 T209
+     Grid: AORC 2022-12-06 Y009 T209
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1034288.3028513045
+     Storm Center Y: 1520704.6164212234
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20221206_Y009_T209.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/06DEC2022:0000/06DEC2022:0100/AORC/
+End: 
+
+Grid: AORC 2022-01-01 Y004 T124
+     Grid: AORC 2022-01-01 Y004 T124
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1084594.4342067002
+     Storm Center Y: 1662615.3165876628
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20220101_Y004_T124.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/01JAN2022:0000/01JAN2022:0100/AORC/
+End: 
+
+Grid: AORC 2007-12-28 Y006 T378
+     Grid: AORC 2007-12-28 Y006 T378
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 1170863.1464278565
+     Storm Center Y: 1421849.3013659923
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20071228_Y006_T378.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/28DEC2007:0000/28DEC2007:0100/AORC/
+End: 
+
+Grid: AORC 2013-01-14 Y001 T006
+     Grid: AORC 2013-01-14 Y001 T006
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 1108263.1654320084
+     Storm Center Y: 1436038.408282466
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20130114_Y001_T006.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/14JAN2013:0000/14JAN2013:0100/AORC/
+End: 
+
+Grid: AORC 1992-10-03 Y006 T267
+     Grid: AORC 1992-10-03 Y006 T267
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1187604.4938820377
+     Storm Center Y: 1454303.4678248693
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19921003_Y006_T267.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/03OCT1992:0000/03OCT1992:0100/AORC/
+End: 
+
+Grid: AORC 1983-05-01 Y007 T356
+     Grid: AORC 1983-05-01 Y007 T356
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1084950.45380418
+     Storm Center Y: 1836018.3574244997
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19830501_Y007_T356.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/01MAY1983:0000/01MAY1983:0100/AORC/
+End: 
+
+Grid: AORC 2008-05-09 Y005 T290
+     Grid: AORC 2008-05-09 Y005 T290
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:27
+     Storm Center X: 1498750.3686526897
+     Storm Center Y: 1833942.380685064
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20080509_Y005_T290.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/09MAY2008:0000/09MAY2008:0100/AORC/
+End: 
+
+Grid: AORC 2012-10-29 Y002 T115
+     Grid: AORC 2012-10-29 Y002 T115
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1505649.972627075
+     Storm Center Y: 1953053.7512169157
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20121029_Y002_T115.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/29OCT2012:0000/29OCT2012:0100/AORC/
+End: 
+
+Grid: AORC 1990-05-27 Y007 T199
+     Grid: AORC 1990-05-27 Y007 T199
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1396216.775091048
+     Storm Center Y: 1535337.0773649516
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19900527_Y007_T199.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/27MAY1990:0000/27MAY1990:0100/AORC/
+End: 
+
+Grid: AORC 1994-03-08 Y007 T289
+     Grid: AORC 1994-03-08 Y007 T289
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1070094.6523450562
+     Storm Center Y: 1728533.2969670857
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19940308_Y007_T289.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/08MAR1994:0000/08MAR1994:0100/AORC/
+End: 
+
+Grid: AORC 2004-05-26 Y005 T141
+     Grid: AORC 2004-05-26 Y005 T141
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 1192058.9037738221
+     Storm Center Y: 1835994.7528071871
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20040526_Y005_T141.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/26MAY2004:0000/26MAY2004:0100/AORC/
+End: 
+
+Grid: AORC 2002-10-14 Y008 T236
+     Grid: AORC 2002-10-14 Y008 T236
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1232418.6594928168
+     Storm Center Y: 1438086.63055608
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20021014_Y008_T236.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/14OCT2002:0000/14OCT2002:0100/AORC/
+End: 
+
+Grid: A14_72hr_100yr
+     Grid: A14_72hr_100yr
+     Grid Type: Precipitation-Normal
+     Description: 
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 0.0
+     Storm Center Y: 0.0
+     Data Source Type: GeoTIFF
+     Filename: data\kanawha_trans_domain_100yr_03day.tif
+     Units: in/1000
+End: 
+
+Grid: AORC 1989-07-03 Y006 T161
+     Grid: AORC 1989-07-03 Y006 T161
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1310959.9464950224
+     Storm Center Y: 1597170.4444978684
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19890703_Y006_T161.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/03JUL1989:0000/03JUL1989:0100/AORC/
+End: 
+
+Grid: AORC 1985-08-16 Y002 T053
+     Grid: AORC 1985-08-16 Y002 T053
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1379064.0131221376
+     Storm Center Y: 1638453.8885769607
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19850816_Y002_T053.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/16AUG1985:0000/16AUG1985:0100/AORC/
+End: 
+
+Grid: AORC 1980-07-21 Y010 T411
+     Grid: AORC 1980-07-21 Y010 T411
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1269327.7698200932
+     Storm Center Y: 2006603.2503765812
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19800721_Y010_T411.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/21JUL1980:0000/21JUL1980:0100/AORC/
+End: 
+
+Grid: AORC 2009-06-03 Y007 T231
+     Grid: AORC 2009-06-03 Y007 T231
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1386368.067856616
+     Storm Center Y: 1666178.7220168207
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20090603_Y007_T231.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/03JUN2009:0000/03JUN2009:0100/AORC/
+End: 
+
+Grid: AORC 2018-04-23 Y010 T196
+     Grid: AORC 2018-04-23 Y010 T196
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1379064.0131221376
+     Storm Center Y: 1638453.8885769607
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20180423_Y010_T196.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/23APR2018:0000/23APR2018:0100/AORC/
+End: 
+
+Grid: AORC 2008-12-10 Y001 T022
+     Grid: AORC 2008-12-10 Y001 T022
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1028842.9917421751
+     Storm Center Y: 1516275.7486797539
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20081210_Y001_T022.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/10DEC2008:0000/10DEC2008:0100/AORC/
+End: 
+
+Grid: AORC 1990-03-15 Y002 T036
+     Grid: AORC 1990-03-15 Y002 T036
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1127068.630360683
+     Storm Center Y: 1408411.9690427464
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19900315_Y002_T036.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/15MAR1990:0000/15MAR1990:0100/AORC/
+End: 
+
+Grid: AORC 2001-08-10 Y009 T424
+     Grid: AORC 2001-08-10 Y009 T424
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:27
+     Storm Center X: 1191418.658322673
+     Storm Center Y: 1956748.8045795567
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20010810_Y009_T424.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/10AUG2001:0000/10AUG2001:0100/AORC/
+End: 
+
+Grid: AORC 2007-02-28 Y003 T314
+     Grid: AORC 2007-02-28 Y003 T314
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1170863.1464278565
+     Storm Center Y: 1421849.3013659923
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20070228_Y003_T314.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/01MAR2007:0000/01MAR2007:0100/AORC/
+End: 
+
+Grid: AORC 1987-07-02 Y007 T400
+     Grid: AORC 1987-07-02 Y007 T400
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:27
+     Storm Center X: 1441928.181506782
+     Storm Center Y: 1603677.5918301176
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19870702_Y007_T400.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/02JUL1987:0000/02JUL1987:0100/AORC/
+End: 
+
+Grid: AORC 2008-01-09 Y004 T278
+     Grid: AORC 2008-01-09 Y004 T278
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1130547.4251926315
+     Storm Center Y: 1405110.6271561375
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20080109_Y004_T278.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/09JAN2008:0000/09JAN2008:0100/AORC/
+End: 
+
+Grid: AORC 1995-05-17 Y006 T215
+     Grid: AORC 1995-05-17 Y006 T215
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 1128432.8249557165
+     Storm Center Y: 1687336.6678213985
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19950517_Y006_T215.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/17MAY1995:0000/17MAY1995:0100/AORC/
+End: 
+
+Grid: AORC 1979-09-21 Y001 T037
+     Grid: AORC 1979-09-21 Y001 T037
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1379064.0131221376
+     Storm Center Y: 1638453.8885769607
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19790921_Y001_T037.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/21SEP1979:0000/21SEP1979:0100/AORC/
+End: 
+
+Grid: AORC 2005-05-19 Y010 T408
+     Grid: AORC 2005-05-19 Y010 T408
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:27
+     Storm Center X: 1101913.9892240393
+     Storm Center Y: 1461548.493701714
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20050519_Y010_T408.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/19MAY2005:0000/19MAY2005:0100/AORC/
+End: 
+
+Grid: AORC 1990-02-02 Y010 T363
+     Grid: AORC 1990-02-02 Y010 T363
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 968129.2538929484
+     Storm Center Y: 1497800.618369107
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19900202_Y010_T363.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/02FEB1990:0000/02FEB1990:0100/AORC/
+End: 
+
+Grid: AORC 1998-06-13 Y005 T164
+     Grid: AORC 1998-06-13 Y005 T164
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1214862.9628769306
+     Storm Center Y: 1877167.0251625455
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19980613_Y005_T164.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/13JUN1998:0000/13JUN1998:0100/AORC/
+End: 
+
+Grid: AORC 2002-09-26 Y006 T187
+     Grid: AORC 2002-09-26 Y006 T187
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 1352094.726937447
+     Storm Center Y: 1800584.4420744055
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20020926_Y006_T187.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/26SEP2002:0000/26SEP2002:0100/AORC/
+End: 
+
+Grid: AORC 1984-05-27 Y006 T352
+     Grid: AORC 1984-05-27 Y006 T352
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:27
+     Storm Center X: 1369046.8152672984
+     Storm Center Y: 1553553.6800567482
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19840527_Y006_T352.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/27MAY1984:0000/27MAY1984:0100/AORC/
+End: 
+
+Grid: AORC 1995-08-04 Y008 T245
+     Grid: AORC 1995-08-04 Y008 T245
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1101783.8098277778
+     Storm Center Y: 1860915.9178183638
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19950804_Y008_T245.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/04AUG1995:0000/04AUG1995:0100/AORC/
+End: 
+
+Grid: AORC 2017-04-21 Y001 T043
+     Grid: AORC 2017-04-21 Y001 T043
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:27
+     Storm Center X: 1044700.7827741883
+     Storm Center Y: 1533277.7843618288
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20170421_Y001_T043.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/21APR2017:0000/21APR2017:0100/AORC/
+End: 
+
+Grid: AORC 2006-10-05 Y004 T266
+     Grid: AORC 2006-10-05 Y004 T266
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:27
+     Storm Center X: 1418969.0168587568
+     Storm Center Y: 1770276.0138993915
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20061005_Y004_T266.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/05OCT2006:0000/05OCT2006:0100/AORC/
+End: 
+
+Grid: AORC 2019-10-30 Y006 T212
+     Grid: AORC 2019-10-30 Y006 T212
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:27
+     Storm Center X: 1100832.67347488
+     Storm Center Y: 1352349.704180919
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20191030_Y006_T212.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/01NOV2019:0000/01NOV2019:0100/AORC/
+End: 
+
+Grid: AORC 1979-09-03 Y002 T083
+     Grid: AORC 1979-09-03 Y002 T083
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1379064.0131221376
+     Storm Center Y: 1638453.8885769607
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19790903_Y002_T083.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/03SEP1979:0000/03SEP1979:0100/AORC/
+End: 
+
+Grid: AORC 2022-09-03 Y006 T167
+     Grid: AORC 2022-09-03 Y006 T167
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1174979.3182688276
+     Storm Center Y: 1369718.5322549364
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20220903_Y006_T167.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/03SEP2022:0000/03SEP2022:0100/AORC/
+End: 
+
+Grid: AORC 1981-10-25 Y001 T110
+     Grid: AORC 1981-10-25 Y001 T110
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:27
+     Storm Center X: 1426808.6218892129
+     Storm Center Y: 1809572.695875423
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19811025_Y001_T110.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/25OCT1981:0000/25OCT1981:0100/AORC/
+End: 
+
+Grid: AORC 1992-11-22 Y010 T396
+     Grid: AORC 1992-11-22 Y010 T396
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:27
+     Storm Center X: 1127068.630360683
+     Storm Center Y: 1408411.9690427464
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19921122_Y010_T396.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/22NOV1992:0000/22NOV1992:0100/AORC/
+End: 
+
+Grid: AORC 1992-02-23 Y002 T182
+     Grid: AORC 1992-02-23 Y002 T182
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:27
+     Storm Center X: 1170863.1464278565
+     Storm Center Y: 1421849.3013659923
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19920223_Y002_T182.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/23FEB1992:0000/23FEB1992:0100/AORC/
+End: 
+
+Grid: AORC 2000-02-17 Y004 T197
+     Grid: AORC 2000-02-17 Y004 T197
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:27
+     Storm Center X: 1113101.8514639905
+     Storm Center Y: 1862469.6186485705
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20000217_Y004_T197.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/17FEB2000:0000/17FEB2000:0100/AORC/
+End: 
+
+Grid: AORC 2001-03-29 Y007 T410
+     Grid: AORC 2001-03-29 Y007 T410
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1379064.0131221376
+     Storm Center Y: 1638453.8885769607
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20010329_Y007_T410.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/29MAR2001:0000/29MAR2001:0100/AORC/
+End: 
+
+Grid: AORC 2001-05-20 Y006 T339
+     Grid: AORC 2001-05-20 Y006 T339
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:27
+     Storm Center X: 1312714.4067559198
+     Storm Center Y: 1642813.6333813362
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20010520_Y006_T339.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/20MAY2001:0000/20MAY2001:0100/AORC/
+End: 
+
+Grid: AORC 1991-03-28 Y004 T092
+     Grid: AORC 1991-03-28 Y004 T092
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:27
+     Storm Center X: 1179714.3570799497
+     Storm Center Y: 1445668.3039823908
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19910328_Y004_T092.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/28MAR1991:0000/28MAR1991:0100/AORC/
+End: 
+
+Grid: AORC 2006-09-22 Y003 T122
+     Grid: AORC 2006-09-22 Y003 T122
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:27
+     Storm Center X: 1088254.863383839
+     Storm Center Y: 1745998.6848600404
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20060922_Y003_T122.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/22SEP2006:0000/22SEP2006:0100/AORC/
+End: 
+
+Grid: AORC 1983-05-14 Y010 T365
+     Grid: AORC 1983-05-14 Y010 T365
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:27
+     Storm Center X: 1493749.0902648512
+     Storm Center Y: 1829218.932422518
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19830514_Y010_T365.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/14MAY1983:0000/14MAY1983:0100/AORC/
+End: 
+
+Grid: AORC 1999-08-24 Y004 T181
+     Grid: AORC 1999-08-24 Y004 T181
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:27
+     Storm Center X: 1169380.1700511575
+     Storm Center Y: 1911961.1697133826
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19990824_Y004_T181.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/24AUG1999:0000/24AUG1999:0100/AORC/
+End: 
+
+Grid: AORC 1980-06-23 Y003 T151
+     Grid: AORC 1980-06-23 Y003 T151
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1278183.0689194428
+     Storm Center Y: 1437311.1449371392
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19800623_Y003_T151.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/23JUN1980:0000/23JUN1980:0100/AORC/
+End: 
+
+Grid: AORC 2001-01-18 Y001 T085
+     Grid: AORC 2001-01-18 Y001 T085
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:23
+     Storm Center X: 1127068.630360683
+     Storm Center Y: 1408411.9690427464
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20010118_Y001_T085.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/18JAN2001:0000/18JAN2001:0100/AORC/
+End: 
+
+Grid: AORC 1989-09-29 Y001 T062
+     Grid: AORC 1989-09-29 Y001 T062
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1128046.7611525615
+     Storm Center Y: 1401017.399026862
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19890929_Y001_T062.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/01OCT1989:0000/01OCT1989:0100/AORC/
+End: 
+
+Grid: AORC 2021-03-25 Y005 T090
+     Grid: AORC 2021-03-25 Y005 T090
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:27
+     Storm Center X: 1143991.4870044293
+     Storm Center Y: 1395616.4230885115
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20210325_Y005_T090.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/25MAR2021:0000/25MAR2021:0100/AORC/
+End: 
+
+Grid: AORC 1993-11-27 Y005 T351
+     Grid: AORC 1993-11-27 Y005 T351
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1494426.6648515707
+     Storm Center Y: 1825544.8460844369
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19931127_Y005_T351.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/27NOV1993:0000/27NOV1993:0100/AORC/
+End: 
+
+Grid: AORC 2010-01-22 Y005 T158
+     Grid: AORC 2010-01-22 Y005 T158
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:25
+     Storm Center X: 1045622.7475280542
+     Storm Center Y: 1525868.4840015376
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20100122_Y005_T158.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/22JAN2010:0000/22JAN2010:0100/AORC/
+End: 
+
+Grid: AORC 2015-04-02 Y006 T153
+     Grid: AORC 2015-04-02 Y006 T153
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1080132.614238785
+     Storm Center Y: 1741154.2391082312
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20150402_Y006_T153.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/02APR2015:0000/02APR2015:0100/AORC/
+End: 
+
+Grid: AORC 2019-06-07 Y001 T027
+     Grid: AORC 2019-06-07 Y001 T027
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:27
+     Storm Center X: 1313070.2858818138
+     Storm Center Y: 1506820.3307051598
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20190607_Y001_T027.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/07JUN2019:0000/07JUN2019:0100/AORC/
+End: 
+
+Grid: AORC 2006-06-25 Y001 T010
+     Grid: AORC 2006-06-25 Y001 T010
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:27
+     Storm Center X: 1379569.465455481
+     Storm Center Y: 1706698.4148747423
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20060625_Y001_T010.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/25JUN2006:0000/25JUN2006:0100/AORC/
+End: 
+
+Grid: AORC 1995-06-01 Y009 T346
+     Grid: AORC 1995-06-01 Y009 T346
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1330011.8622613042
+     Storm Center Y: 1683402.2386096346
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19950601_Y009_T346.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/01JUN1995:0000/01JUN1995:0100/AORC/
+End: 
+
+Grid: AORC 2017-10-22 Y002 T133
+     Grid: AORC 2017-10-22 Y002 T133
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1232175.3236690836
+     Storm Center Y: 1502148.5551425233
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20171022_Y002_T133.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/22OCT2017:0000/22OCT2017:0100/AORC/
+End: 
+
+Grid: AORC 2003-02-14 Y002 T033
+     Grid: AORC 2003-02-14 Y002 T033
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1175947.0851834933
+     Storm Center Y: 1622300.6161679442
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20030214_Y002_T033.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/14FEB2003:0000/14FEB2003:0100/AORC/
+End: 
+
+Grid: AORC 2002-03-16 Y002 T024
+     Grid: AORC 2002-03-16 Y002 T024
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1146805.166858387
+     Storm Center Y: 1618227.1945991185
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20020316_Y002_T024.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/16MAR2002:0000/16MAR2002:0100/AORC/
+End: 
+
+Grid: AORC 1985-01-31 Y004 T154
+     Grid: AORC 1985-01-31 Y004 T154
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1127068.630360683
+     Storm Center Y: 1408411.9690427464
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19850131_Y004_T154.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/01FEB1985:0000/01FEB1985:0100/AORC/
+End: 
+
+Grid: AORC 1994-08-15 Y002 T013
+     Grid: AORC 1994-08-15 Y002 T013
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:26
+     Storm Center X: 1173846.855246352
+     Storm Center Y: 1422260.4938464514
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\19940815_Y002_T013.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/15AUG1994:0000/15AUG1994:0100/AORC/
+End: 
+
+Grid: AORC 2020-06-15 Y006 T131
+     Grid: AORC 2020-06-15 Y006 T131
+     Grid Type: Precipitation
+     Last Modified Date: 25 August 2025
+     Last Modified Time: 21:48:27
+     Storm Center X: 1406405.4401049237
+     Storm Center Y: 1688509.8591970091
+     Data Source Type: External DSS
+     Filename: data\StormCatalog\20200615_Y006_T131.dss
+     Pathname: /SHG4K/KANAWHA/PRECIPITATION/15JUN2020:0000/15JUN2020:0100/AORC/
+End: 
